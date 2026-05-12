@@ -1,0 +1,38 @@
+<!-- Контейнер для плеера -->
+<div id="player-container">
+    <p>Загрузка видео...</p>
+</div>
+
+<!-- Поле для поиска (опционально) -->
+<input type="text" id="anime-id" placeholder="Введите ID аниме (например, 1)">
+<button onclick="loadAnime()">Найти озвучку</button>
+<head>
+    <style>
+        /* Стиль для контейнера, где лежит плеер */
+        #player-container {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            background-color: #0d0d0d; /* Глубокий черный фон */
+            padding: 10px;
+            border-radius: 12px;
+        }
+
+        /* Стиль самого окна с видео (iframe) */
+        iframe {
+            border: 2px solid #00efff; /* Неоновая рамка */
+            box-shadow: 0 0 15px #00efff; /* Эффект свечения */
+            border-radius: 8px;
+            width: 100%;
+            max-width: 800px;
+            height: 450px;
+            transition: transform 0.3s ease; /* Плавная анимация */
+        }
+
+        /* Эффект при наведении на плеер */
+        iframe:hover {
+            transform: scale(1.01);
+            box-shadow: 0 0 25px #00efff;
+        }
+    </style>
+</head>
