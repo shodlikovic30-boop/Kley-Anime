@@ -2,151 +2,30 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>KleyAnime OS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Anime List</title>
     <style>
-        :root { --accent: #f8e71c; --bg: #0b0c10; --card: #16171d; --text: #ffffff; --gray: #949ba2; }
-        body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; margin: 0; padding-bottom: 75px; overflow-x: hidden; }
-
-        .search-container { display: flex; background: #1a1c23; border-radius: 12px; padding: 5px 15px; margin: 15px; align-items: center; border: 1px solid #333; }
-        .search-container input { flex: 1; background: transparent; border: none; color: #fff; padding: 10px; outline: none; font-size: 16px; }
-        .search-btn { background: none; border: none; color: var(--accent); font-size: 20px; cursor: pointer; }
-
-        /* ТАБЫ (ТОЛЬКО 2) */
-        .tabs-container { display: flex; gap: 25px; padding: 10px 15px; border-bottom: 1px solid #222; justify-content: center; }
-        .tab { color: var(--gray); font-weight: bold; cursor: pointer; font-size: 15px; padding-bottom: 8px; border-bottom: 2px solid transparent; transition: 0.3s; }
-        .tab.active { color: #fff; border-bottom: 2px solid var(--accent); }
-
-        /* СЕТКА */
-        .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; padding: 15px; }
-        .item-card { cursor: pointer; text-align: center; }
-        .item-card img { width: 100%; aspect-ratio: 2/3; border-radius: 12px; object-fit: cover; border: 1px solid #222; }
-        .item-card p { font-size: 10px; margin: 6px 0; height: 26px; overflow: hidden; line-height: 1.2; color: #fff; }
-
-        /* МОДАЛКА */
-        #modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: var(--bg); z-index: 2000; overflow-y: auto; padding: 15px; box-sizing: border-box; }
-        .player-box { width: 100%; aspect-ratio: 16/9; background: #000; border-radius: 12px; overflow: hidden; border: 1px solid #333; margin-bottom: 15px; }
-        iframe { width: 100%; height: 100%; border: none; }
-        
-        .btn-list { display: block; width: 100%; padding: 14px; margin: 8px 0; border-radius: 10px; background: #1a1c23; color: #fff; border: 1px solid #333; font-weight: bold; cursor: pointer; text-align: center; font-size: 14px; }
-        .btn-play { background: #f8e71c; color: #000; border: none; }
-
-        .nav-bottom { position: fixed; bottom: 0; width: 100%; height: 65px; background: #12141a; display: flex; border-top: 1px solid #222; z-index: 1000; }
-        .nav-item { flex: 1; text-align: center; color: var(--gray); font-size: 11px; padding-top: 12px; cursor: pointer; }
-        .nav-item.active { color: var(--accent); }
+        /* Немного стиля, чтобы это не выглядело скучно */
+        body { background-color: #121212; color: white; font-family: sans-serif; }
+        #anime-list { display: flex; flex-wrap: wrap; gap: 10px; padding: 20px; }
+        .anime-link { 
+            padding: 10px; 
+            background: #1e1e1e; 
+            color: #00ffcc; 
+            text-decoration: none; 
+            border: 1px solid #333;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
 
-    <div id="p-home" class="page active">
-        <div class="search-container">
-            <input type="text" id="s-in" placeholder="Поиск аниме..." onkeyup="if(event.key==='Enter') runSearch()">
-            <button class="search-btn" onclick="runSearch()">🔍</button>
-        </div>
-        <div style="padding: 0 15px; font-size: 14px; color: var(--accent); font-weight: bold; text-transform: uppercase;">Популярное</div>
-        <div class="grid" id="main-grid"></div>
-    </div>
+    <h2>Мой список аниме</h2>
+    <!-- Тот самый контейнер -->
+    <div id="anime-list"></div>
 
-    <div id="p-lists" class="page" style="display:none">
-        <div class="tabs-container">
-            <div class="tab active" onclick="changeTab('watching', this)">Смотрю</div>
-            <div class="tab" onclick="changeTab('planned', this)">В планах</div>
-        </div>
-        <div class="grid" id="list-grid"></div>
-    </div>
-
-    <div id="modal">
-        <div onclick="closeM()" style="padding-bottom:15px; cursor:pointer; color:var(--gray); font-weight:bold;">⬅ НАЗАД</div>
-        <h2 id="m-title" style="margin:0 0 15px 0; font-size: 18px;"></h2>
-        <div class="player-box"><iframe id="p-frame" src="" allowfullscreen></iframe></div>
-        
-        <div style="background:#16171d; padding:15px; border-radius:15px; border:1px solid #333;">
-            <div class="btn-list btn-play" onclick="setV('dub')">СМОТРЕТЬ (ОЗВУЧКА)</div>
-            <hr style="border:0; border-top:1px solid #333; margin:15px 0;">
-            <div class="btn-list" onclick="saveTo('watching')">ДОБАВИТЬ В «СМОТРЮ»</div>
-            <div class="btn-list" onclick="saveTo('planned')">ДОБАВИТЬ В «ПЛАНЫ»</div>
-        </div>
-    </div>
-
-    <nav class="nav-bottom">
-        <div class="nav-item active" id="n-home" onclick="nav('p-home')">🏠<br>Главная</div>
-        <div class="nav-item" id="n-lists" onclick="nav('p-lists')">🔖<br>Списки</div>
-    </nav>
-
-<script>
-    let cur = null;
-    let currentCategory = 'watching';
-    let db = JSON.parse(localStorage.getItem('kley_db')) || { watching: [], planned: [] };
-
-    async function loadTop() {
-        const res = await fetch('https://shikimori.one/api/animes?order=popularity&limit=18');
-        const data = await res.json();
-        render(data, 'main-grid');
-    }
-
-    async function runSearch() {
-        const q = document.getElementById('s-in').value;
-        if(!q) return loadTop();
-        const res = await fetch(`https://shikimori.one/api/animes?search=${encodeURIComponent(q)}&limit=18`);
-        const data = await res.json();
-        render(data, 'main-grid');
-    }
-
-    function render(data, target) {
-        const g = document.getElementById(target);
-        g.innerHTML = '';
-        data.forEach(a => {
-            const img = a.img || 'https://shikimori.one' + a.image.original;
-            const div = document.createElement('div');
-            div.className = 'item-card';
-            div.onclick = () => openM(a, img);
-            div.innerHTML = `<img src="${img}"><p>${a.russian || a.name}</p>`;
-            g.appendChild(div);
-        });
-    }
-
-    function openM(anime, img) {
-        cur = { id: anime.id, russian: anime.russian || anime.name, img: img };
-        document.getElementById('m-title').innerText = cur.russian;
-        document.getElementById('modal').style.display = 'block';
-        setV('dub');
-    }
-
-    function setV(t) {
-        const f = document.getElementById('p-frame');
-        f.src = t === 'dub' ? `https://voidboost.net/embed/anime/${cur.id}` : `https://www.youtube.com/embed?listType=search&list=${encodeURIComponent(cur.russian)}+sub`;
-    }
-
-    function saveTo(cat) {
-        Object.keys(db).forEach(k => db[k] = db[k].filter(x => x.id !== cur.id));
-        db[cat].push(cur);
-        localStorage.setItem('kley_db', JSON.stringify(db));
-        alert('Сохранено!');
-        closeM();
-        if(document.getElementById('p-lists').style.display !== 'none') render(db[currentCategory], 'list-grid');
-    }
-
-    function changeTab(cat, el) {
-        currentCategory = cat;
-        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-        el.classList.add('active');
-        render(db[cat], 'list-grid');
-    }
-
-    function nav(id) {
-        document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
-        document.getElementById(id).style.display = 'block';
-        document.getElementById('n-home').classList.toggle('active', id === 'p-home');
-        document.getElementById('n-lists').classList.toggle('active', id === 'p-lists');
-        if(id === 'p-lists') render(db[currentCategory], 'list-grid');
-    }
-
-    function closeM() { 
-        document.getElementById('modal').style.display = 'none'; 
-        document.getElementById('p-frame').src = ""; 
-    }
-
-    window.onload = loadTop;
-</script>
+    <!-- Подключаем скрипты -->
+    <script src="animeData.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
