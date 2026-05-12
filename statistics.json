@@ -1,0 +1,5798 @@
+[
+  {
+    "date": 1613779200,
+    "movies": {
+      "all": 18411,
+      "kinopoisk": 14607,
+      "imdb": 14186,
+      "tmdb": 0,
+      "world-art": 1503,
+      "shikimori": 1150,
+      "none": 130
+    },
+    "tv": {
+      "all": 14914,
+      "kinopoisk": 5447,
+      "imdb": 5622,
+      "tmdb": 0,
+      "world-art": 3640,
+      "shikimori": 2911,
+      "none": 685
+    }
+  },
+  {
+    "date": 1613865600,
+    "movies": {
+      "all": 18411,
+      "kinopoisk": 14607,
+      "imdb": 14186,
+      "tmdb": 0,
+      "world-art": 1503,
+      "shikimori": 1150,
+      "none": 130
+    },
+    "tv": {
+      "all": 14918,
+      "kinopoisk": 5447,
+      "imdb": 5622,
+      "tmdb": 0,
+      "world-art": 3640,
+      "shikimori": 2911,
+      "none": 685
+    }
+  },
+  {
+    "date": 1613952000,
+    "movies": {
+      "all": 18415,
+      "kinopoisk": 14607,
+      "imdb": 14186,
+      "tmdb": 0,
+      "world-art": 1503,
+      "shikimori": 1150,
+      "none": 130
+    },
+    "tv": {
+      "all": 14925,
+      "kinopoisk": 5447,
+      "imdb": 5622,
+      "tmdb": 0,
+      "world-art": 3640,
+      "shikimori": 2911,
+      "none": 685
+    }
+  },
+  {
+    "date": 1614038400,
+    "movies": {
+      "all": 18423,
+      "kinopoisk": 14607,
+      "imdb": 14186,
+      "tmdb": 0,
+      "world-art": 1503,
+      "shikimori": 1150,
+      "none": 130
+    },
+    "tv": {
+      "all": 14936,
+      "kinopoisk": 5447,
+      "imdb": 5622,
+      "tmdb": 0,
+      "world-art": 3640,
+      "shikimori": 2911,
+      "none": 685
+    }
+  },
+  {
+    "date": 1614124800,
+    "movies": {
+      "all": 18459,
+      "kinopoisk": 14607,
+      "imdb": 14186,
+      "tmdb": 0,
+      "world-art": 1503,
+      "shikimori": 1150,
+      "none": 130
+    },
+    "tv": {
+      "all": 14944,
+      "kinopoisk": 5447,
+      "imdb": 5622,
+      "tmdb": 0,
+      "world-art": 3640,
+      "shikimori": 2911,
+      "none": 685
+    }
+  },
+  {
+    "date": 1614211200,
+    "movies": {
+      "all": 18475,
+      "kinopoisk": 14619,
+      "imdb": 14197,
+      "tmdb": 0,
+      "world-art": 1502,
+      "shikimori": 1149,
+      "none": 131
+    },
+    "tv": {
+      "all": 14957,
+      "kinopoisk": 5456,
+      "imdb": 5632,
+      "tmdb": 0,
+      "world-art": 3641,
+      "shikimori": 2914,
+      "none": 686
+    }
+  },
+  {
+    "date": 1614297600,
+    "movies": {
+      "all": 18476,
+      "kinopoisk": 14620,
+      "imdb": 14198,
+      "tmdb": 0,
+      "world-art": 1502,
+      "shikimori": 1149,
+      "none": 130
+    },
+    "tv": {
+      "all": 14961,
+      "kinopoisk": 5457,
+      "imdb": 5633,
+      "tmdb": 0,
+      "world-art": 3642,
+      "shikimori": 2915,
+      "none": 689
+    }
+  },
+  {
+    "date": 1614384000,
+    "movies": {
+      "all": 18481,
+      "kinopoisk": 14624,
+      "imdb": 14202,
+      "tmdb": 0,
+      "world-art": 1502,
+      "shikimori": 1149,
+      "none": 130
+    },
+    "tv": {
+      "all": 14967,
+      "kinopoisk": 5460,
+      "imdb": 5637,
+      "tmdb": 0,
+      "world-art": 3643,
+      "shikimori": 2915,
+      "none": 690
+    }
+  },
+  {
+    "date": 1614470400,
+    "movies": {
+      "all": 18484,
+      "kinopoisk": 14627,
+      "imdb": 14205,
+      "tmdb": 0,
+      "world-art": 1503,
+      "shikimori": 1150,
+      "none": 130
+    },
+    "tv": {
+      "all": 14979,
+      "kinopoisk": 5462,
+      "imdb": 5638,
+      "tmdb": 0,
+      "world-art": 3643,
+      "shikimori": 2916,
+      "none": 695
+    }
+  },
+  {
+    "date": 1614556800,
+    "movies": {
+      "all": 18503,
+      "kinopoisk": 14643,
+      "imdb": 14221,
+      "tmdb": 0,
+      "world-art": 1504,
+      "shikimori": 1151,
+      "none": 130
+    },
+    "tv": {
+      "all": 14988,
+      "kinopoisk": 5464,
+      "imdb": 5640,
+      "tmdb": 0,
+      "world-art": 3643,
+      "shikimori": 2917,
+      "none": 696
+    }
+  },
+  {
+    "date": 1614643200,
+    "movies": {
+      "all": 18507,
+      "kinopoisk": 14645,
+      "imdb": 14223,
+      "tmdb": 0,
+      "world-art": 1504,
+      "shikimori": 1151,
+      "none": 131
+    },
+    "tv": {
+      "all": 14991,
+      "kinopoisk": 5466,
+      "imdb": 5642,
+      "tmdb": 0,
+      "world-art": 3643,
+      "shikimori": 2917,
+      "none": 696
+    }
+  },
+  {
+    "date": 1614729600,
+    "movies": {
+      "all": 18511,
+      "kinopoisk": 14647,
+      "imdb": 14225,
+      "tmdb": 0,
+      "world-art": 1504,
+      "shikimori": 1151,
+      "none": 131
+    },
+    "tv": {
+      "all": 14995,
+      "kinopoisk": 5467,
+      "imdb": 5643,
+      "tmdb": 0,
+      "world-art": 3643,
+      "shikimori": 2917,
+      "none": 696
+    }
+  },
+  {
+    "date": 1614816000,
+    "movies": {
+      "all": 18532,
+      "kinopoisk": 14665,
+      "imdb": 14243,
+      "tmdb": 0,
+      "world-art": 1504,
+      "shikimori": 1152,
+      "none": 131
+    },
+    "tv": {
+      "all": 15011,
+      "kinopoisk": 5471,
+      "imdb": 5647,
+      "tmdb": 0,
+      "world-art": 3643,
+      "shikimori": 2917,
+      "none": 699
+    }
+  },
+  {
+    "date": 1614902400,
+    "movies": {
+      "all": 18541,
+      "kinopoisk": 14674,
+      "imdb": 14252,
+      "tmdb": 0,
+      "world-art": 1505,
+      "shikimori": 1153,
+      "none": 131
+    },
+    "tv": {
+      "all": 15019,
+      "kinopoisk": 5473,
+      "imdb": 5650,
+      "tmdb": 0,
+      "world-art": 3643,
+      "shikimori": 2917,
+      "none": 698
+    }
+  },
+  {
+    "date": 1614988800,
+    "movies": {
+      "all": 18547,
+      "kinopoisk": 14677,
+      "imdb": 14255,
+      "tmdb": 0,
+      "world-art": 1506,
+      "shikimori": 1154,
+      "none": 131
+    },
+    "tv": {
+      "all": 15032,
+      "kinopoisk": 5479,
+      "imdb": 5657,
+      "tmdb": 0,
+      "world-art": 3644,
+      "shikimori": 2918,
+      "none": 700
+    }
+  },
+  {
+    "date": 1615075200,
+    "movies": {
+      "all": 18536,
+      "kinopoisk": 14666,
+      "imdb": 14244,
+      "tmdb": 0,
+      "world-art": 1504,
+      "shikimori": 1152,
+      "none": 131
+    },
+    "tv": {
+      "all": 14946,
+      "kinopoisk": 5457,
+      "imdb": 5628,
+      "tmdb": 0,
+      "world-art": 3639,
+      "shikimori": 2916,
+      "none": 687
+    }
+  },
+  {
+    "date": 1615161600,
+    "movies": {
+      "all": 18577,
+      "kinopoisk": 14704,
+      "imdb": 14280,
+      "tmdb": 0,
+      "world-art": 1506,
+      "shikimori": 1154,
+      "none": 131
+    },
+    "tv": {
+      "all": 15040,
+      "kinopoisk": 5487,
+      "imdb": 5668,
+      "tmdb": 0,
+      "world-art": 3651,
+      "shikimori": 2919,
+      "none": 695
+    }
+  },
+  {
+    "date": 1615248000,
+    "movies": {
+      "all": 18595,
+      "kinopoisk": 14718,
+      "imdb": 14294,
+      "tmdb": 0,
+      "world-art": 1508,
+      "shikimori": 1155,
+      "none": 132
+    },
+    "tv": {
+      "all": 15044,
+      "kinopoisk": 5490,
+      "imdb": 5673,
+      "tmdb": 0,
+      "world-art": 3652,
+      "shikimori": 2920,
+      "none": 692
+    }
+  },
+  {
+    "date": 1615334400,
+    "movies": {
+      "all": 18602,
+      "kinopoisk": 14723,
+      "imdb": 14299,
+      "tmdb": 0,
+      "world-art": 1510,
+      "shikimori": 1156,
+      "none": 132
+    },
+    "tv": {
+      "all": 15047,
+      "kinopoisk": 5493,
+      "imdb": 5675,
+      "tmdb": 0,
+      "world-art": 3653,
+      "shikimori": 2921,
+      "none": 693
+    }
+  },
+  {
+    "date": 1615420800,
+    "movies": {
+      "all": 18609,
+      "kinopoisk": 14728,
+      "imdb": 14304,
+      "tmdb": 0,
+      "world-art": 1512,
+      "shikimori": 1158,
+      "none": 134
+    },
+    "tv": {
+      "all": 15056,
+      "kinopoisk": 5493,
+      "imdb": 5678,
+      "tmdb": 0,
+      "world-art": 3653,
+      "shikimori": 2921,
+      "none": 695
+    }
+  },
+  {
+    "date": 1615507200,
+    "movies": {
+      "all": 18632,
+      "kinopoisk": 14744,
+      "imdb": 14319,
+      "tmdb": 0,
+      "world-art": 1512,
+      "shikimori": 1158,
+      "none": 134
+    },
+    "tv": {
+      "all": 15076,
+      "kinopoisk": 5501,
+      "imdb": 5685,
+      "tmdb": 0,
+      "world-art": 3653,
+      "shikimori": 2922,
+      "none": 696
+    }
+  },
+  {
+    "date": 1615593600,
+    "movies": {
+      "all": 18638,
+      "kinopoisk": 14746,
+      "imdb": 14321,
+      "tmdb": 0,
+      "world-art": 1512,
+      "shikimori": 1158,
+      "none": 134
+    },
+    "tv": {
+      "all": 15079,
+      "kinopoisk": 5503,
+      "imdb": 5688,
+      "tmdb": 0,
+      "world-art": 3653,
+      "shikimori": 2922,
+      "none": 695
+    }
+  },
+  {
+    "date": 1615680000,
+    "movies": {
+      "all": 18641,
+      "kinopoisk": 14746,
+      "imdb": 14321,
+      "tmdb": 0,
+      "world-art": 1512,
+      "shikimori": 1158,
+      "none": 134
+    },
+    "tv": {
+      "all": 15083,
+      "kinopoisk": 5506,
+      "imdb": 5692,
+      "tmdb": 0,
+      "world-art": 3655,
+      "shikimori": 2923,
+      "none": 696
+    }
+  },
+  {
+    "date": 1615766400,
+    "movies": {
+      "all": 18652,
+      "kinopoisk": 14753,
+      "imdb": 14330,
+      "tmdb": 0,
+      "world-art": 1514,
+      "shikimori": 1160,
+      "none": 134
+    },
+    "tv": {
+      "all": 15094,
+      "kinopoisk": 5507,
+      "imdb": 5693,
+      "tmdb": 0,
+      "world-art": 3655,
+      "shikimori": 2923,
+      "none": 696
+    }
+  },
+  {
+    "date": 1615852800,
+    "movies": {
+      "all": 18674,
+      "kinopoisk": 14773,
+      "imdb": 14349,
+      "tmdb": 0,
+      "world-art": 1514,
+      "shikimori": 1160,
+      "none": 134
+    },
+    "tv": {
+      "all": 15112,
+      "kinopoisk": 5512,
+      "imdb": 5696,
+      "tmdb": 0,
+      "world-art": 3655,
+      "shikimori": 2923,
+      "none": 702
+    }
+  },
+  {
+    "date": 1615939200,
+    "movies": {
+      "all": 18765,
+      "kinopoisk": 14777,
+      "imdb": 14353,
+      "tmdb": 0,
+      "world-art": 1514,
+      "shikimori": 1160,
+      "none": 138
+    },
+    "tv": {
+      "all": 15011,
+      "kinopoisk": 5478,
+      "imdb": 5663,
+      "tmdb": 0,
+      "world-art": 3654,
+      "shikimori": 2923,
+      "none": 701
+    }
+  },
+  {
+    "date": 1616025600,
+    "movies": {
+      "all": 18681,
+      "kinopoisk": 14777,
+      "imdb": 14353,
+      "tmdb": 0,
+      "world-art": 1514,
+      "shikimori": 1161,
+      "none": 134
+    },
+    "tv": {
+      "all": 15029,
+      "kinopoisk": 5484,
+      "imdb": 5668,
+      "tmdb": 0,
+      "world-art": 3657,
+      "shikimori": 2926,
+      "none": 703
+    }
+  },
+  {
+    "date": 1616112000,
+    "movies": {
+      "all": 18688,
+      "kinopoisk": 14783,
+      "imdb": 14359,
+      "tmdb": 0,
+      "world-art": 1514,
+      "shikimori": 1161,
+      "none": 134
+    },
+    "tv": {
+      "all": 15027,
+      "kinopoisk": 5485,
+      "imdb": 5671,
+      "tmdb": 0,
+      "world-art": 3659,
+      "shikimori": 2926,
+      "none": 705
+    }
+  },
+  {
+    "date": 1616198400,
+    "movies": {
+      "all": 18693,
+      "kinopoisk": 14786,
+      "imdb": 14363,
+      "tmdb": 0,
+      "world-art": 1515,
+      "shikimori": 1162,
+      "none": 134
+    },
+    "tv": {
+      "all": 15035,
+      "kinopoisk": 5489,
+      "imdb": 5674,
+      "tmdb": 0,
+      "world-art": 3661,
+      "shikimori": 2928,
+      "none": 707
+    }
+  },
+  {
+    "date": 1616284800,
+    "movies": {
+      "all": 18704,
+      "kinopoisk": 14794,
+      "imdb": 14371,
+      "tmdb": 0,
+      "world-art": 1515,
+      "shikimori": 1162,
+      "none": 134
+    },
+    "tv": {
+      "all": 15043,
+      "kinopoisk": 5490,
+      "imdb": 5675,
+      "tmdb": 0,
+      "world-art": 3662,
+      "shikimori": 2929,
+      "none": 709
+    }
+  },
+  {
+    "date": 1616371200,
+    "movies": {
+      "all": 18710,
+      "kinopoisk": 14795,
+      "imdb": 14373,
+      "tmdb": 0,
+      "world-art": 1515,
+      "shikimori": 1162,
+      "none": 134
+    },
+    "tv": {
+      "all": 15049,
+      "kinopoisk": 5491,
+      "imdb": 5677,
+      "tmdb": 0,
+      "world-art": 3663,
+      "shikimori": 2930,
+      "none": 707
+    }
+  },
+  {
+    "date": 1616457600,
+    "movies": {
+      "all": 18745,
+      "kinopoisk": 14825,
+      "imdb": 14399,
+      "tmdb": 0,
+      "world-art": 1516,
+      "shikimori": 1163,
+      "none": 134
+    },
+    "tv": {
+      "all": 15051,
+      "kinopoisk": 5493,
+      "imdb": 5679,
+      "tmdb": 0,
+      "world-art": 3664,
+      "shikimori": 2931,
+      "none": 707
+    }
+  },
+  {
+    "date": 1616544000,
+    "movies": {
+      "all": 18752,
+      "kinopoisk": 14827,
+      "imdb": 14401,
+      "tmdb": 0,
+      "world-art": 1516,
+      "shikimori": 1163,
+      "none": 134
+    },
+    "tv": {
+      "all": 15063,
+      "kinopoisk": 5498,
+      "imdb": 5685,
+      "tmdb": 0,
+      "world-art": 3668,
+      "shikimori": 2936,
+      "none": 706
+    }
+  },
+  {
+    "date": 1616630400,
+    "movies": {
+      "all": 18767,
+      "kinopoisk": 14839,
+      "imdb": 14413,
+      "tmdb": 0,
+      "world-art": 1516,
+      "shikimori": 1163,
+      "none": 134
+    },
+    "tv": {
+      "all": 15081,
+      "kinopoisk": 5506,
+      "imdb": 5693,
+      "tmdb": 0,
+      "world-art": 3670,
+      "shikimori": 2936,
+      "none": 706
+    }
+  },
+  {
+    "date": 1616716800,
+    "movies": {
+      "all": 18773,
+      "kinopoisk": 14842,
+      "imdb": 14416,
+      "tmdb": 0,
+      "world-art": 1516,
+      "shikimori": 1164,
+      "none": 134
+    },
+    "tv": {
+      "all": 15090,
+      "kinopoisk": 5506,
+      "imdb": 5693,
+      "tmdb": 0,
+      "world-art": 3670,
+      "shikimori": 2937,
+      "none": 706
+    }
+  },
+  {
+    "date": 1616803200,
+    "movies": {
+      "all": 18779,
+      "kinopoisk": 14844,
+      "imdb": 14418,
+      "tmdb": 0,
+      "world-art": 1516,
+      "shikimori": 1164,
+      "none": 135
+    },
+    "tv": {
+      "all": 15100,
+      "kinopoisk": 5508,
+      "imdb": 5695,
+      "tmdb": 0,
+      "world-art": 3672,
+      "shikimori": 2939,
+      "none": 707
+    }
+  },
+  {
+    "date": 1616889600,
+    "movies": {
+      "all": 18780,
+      "kinopoisk": 14844,
+      "imdb": 14418,
+      "tmdb": 0,
+      "world-art": 1516,
+      "shikimori": 1164,
+      "none": 135
+    },
+    "tv": {
+      "all": 15108,
+      "kinopoisk": 5510,
+      "imdb": 5697,
+      "tmdb": 0,
+      "world-art": 3673,
+      "shikimori": 2940,
+      "none": 708
+    }
+  },
+  {
+    "date": 1616976000,
+    "movies": {
+      "all": 18801,
+      "kinopoisk": 14860,
+      "imdb": 14431,
+      "tmdb": 0,
+      "world-art": 1517,
+      "shikimori": 1164,
+      "none": 135
+    },
+    "tv": {
+      "all": 15126,
+      "kinopoisk": 5510,
+      "imdb": 5700,
+      "tmdb": 0,
+      "world-art": 3674,
+      "shikimori": 2941,
+      "none": 713
+    }
+  },
+  {
+    "date": 1617062400,
+    "movies": {
+      "all": 18816,
+      "kinopoisk": 14872,
+      "imdb": 14442,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15134,
+      "kinopoisk": 5513,
+      "imdb": 5704,
+      "tmdb": 0,
+      "world-art": 3678,
+      "shikimori": 2944,
+      "none": 713
+    }
+  },
+  {
+    "date": 1617148800,
+    "movies": {
+      "all": 18818,
+      "kinopoisk": 14873,
+      "imdb": 14443,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15156,
+      "kinopoisk": 5519,
+      "imdb": 5712,
+      "tmdb": 0,
+      "world-art": 3682,
+      "shikimori": 2947,
+      "none": 719
+    }
+  },
+  {
+    "date": 1617235200,
+    "movies": {
+      "all": 18834,
+      "kinopoisk": 14889,
+      "imdb": 14458,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1166,
+      "none": 135
+    },
+    "tv": {
+      "all": 15167,
+      "kinopoisk": 5521,
+      "imdb": 5714,
+      "tmdb": 0,
+      "world-art": 3684,
+      "shikimori": 2948,
+      "none": 719
+    }
+  },
+  {
+    "date": 1617321600,
+    "movies": {
+      "all": 18840,
+      "kinopoisk": 14893,
+      "imdb": 14462,
+      "tmdb": 0,
+      "world-art": 1519,
+      "shikimori": 1167,
+      "none": 135
+    },
+    "tv": {
+      "all": 15184,
+      "kinopoisk": 5523,
+      "imdb": 5718,
+      "tmdb": 0,
+      "world-art": 3684,
+      "shikimori": 2948,
+      "none": 725
+    }
+  },
+  {
+    "date": 1617408000,
+    "movies": {
+      "all": 18846,
+      "kinopoisk": 14897,
+      "imdb": 14466,
+      "tmdb": 0,
+      "world-art": 1519,
+      "shikimori": 1167,
+      "none": 135
+    },
+    "tv": {
+      "all": 15203,
+      "kinopoisk": 5530,
+      "imdb": 5726,
+      "tmdb": 0,
+      "world-art": 3687,
+      "shikimori": 2952,
+      "none": 726
+    }
+  },
+  {
+    "date": 1617494400,
+    "movies": {
+      "all": 18848,
+      "kinopoisk": 14899,
+      "imdb": 14468,
+      "tmdb": 0,
+      "world-art": 1519,
+      "shikimori": 1167,
+      "none": 135
+    },
+    "tv": {
+      "all": 15222,
+      "kinopoisk": 5531,
+      "imdb": 5729,
+      "tmdb": 0,
+      "world-art": 3691,
+      "shikimori": 2953,
+      "none": 726
+    }
+  },
+  {
+    "date": 1617580800,
+    "movies": {
+      "all": 18866,
+      "kinopoisk": 14909,
+      "imdb": 14478,
+      "tmdb": 0,
+      "world-art": 1519,
+      "shikimori": 1167,
+      "none": 135
+    },
+    "tv": {
+      "all": 15243,
+      "kinopoisk": 5537,
+      "imdb": 5735,
+      "tmdb": 0,
+      "world-art": 3694,
+      "shikimori": 2956,
+      "none": 727
+    }
+  },
+  {
+    "date": 1617667200,
+    "movies": {
+      "all": 18870,
+      "kinopoisk": 14912,
+      "imdb": 14481,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1166,
+      "none": 135
+    },
+    "tv": {
+      "all": 15275,
+      "kinopoisk": 5542,
+      "imdb": 5741,
+      "tmdb": 0,
+      "world-art": 3697,
+      "shikimori": 2959,
+      "none": 728
+    }
+  },
+  {
+    "date": 1617753600,
+    "movies": {
+      "all": 18884,
+      "kinopoisk": 14925,
+      "imdb": 14491,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1166,
+      "none": 135
+    },
+    "tv": {
+      "all": 15300,
+      "kinopoisk": 5543,
+      "imdb": 5745,
+      "tmdb": 0,
+      "world-art": 3700,
+      "shikimori": 2960,
+      "none": 731
+    }
+  },
+  {
+    "date": 1617840000,
+    "movies": {
+      "all": 18888,
+      "kinopoisk": 14925,
+      "imdb": 14491,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1166,
+      "none": 135
+    },
+    "tv": {
+      "all": 15326,
+      "kinopoisk": 5545,
+      "imdb": 5748,
+      "tmdb": 0,
+      "world-art": 3703,
+      "shikimori": 2961,
+      "none": 735
+    }
+  },
+  {
+    "date": 1617926400,
+    "movies": {
+      "all": 18901,
+      "kinopoisk": 14937,
+      "imdb": 14501,
+      "tmdb": 0,
+      "world-art": 1517,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15345,
+      "kinopoisk": 5549,
+      "imdb": 5752,
+      "tmdb": 0,
+      "world-art": 3707,
+      "shikimori": 2964,
+      "none": 735
+    }
+  },
+  {
+    "date": 1618099200,
+    "movies": {
+      "all": 18911,
+      "kinopoisk": 14944,
+      "imdb": 14508,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15404,
+      "kinopoisk": 5556,
+      "imdb": 5769,
+      "tmdb": 0,
+      "world-art": 3717,
+      "shikimori": 2967,
+      "none": 738
+    }
+  },
+  {
+    "date": 1618272000,
+    "movies": {
+      "all": 18921,
+      "kinopoisk": 14947,
+      "imdb": 14511,
+      "tmdb": 0,
+      "world-art": 1518,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15454,
+      "kinopoisk": 5561,
+      "imdb": 5776,
+      "tmdb": 0,
+      "world-art": 3722,
+      "shikimori": 2971,
+      "none": 737
+    }
+  },
+  {
+    "date": 1618358400,
+    "movies": {
+      "all": 18925,
+      "kinopoisk": 14950,
+      "imdb": 14514,
+      "tmdb": 0,
+      "world-art": 1519,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15471,
+      "kinopoisk": 5564,
+      "imdb": 5779,
+      "tmdb": 0,
+      "world-art": 3723,
+      "shikimori": 2972,
+      "none": 737
+    }
+  },
+  {
+    "date": 1618444800,
+    "movies": {
+      "all": 18951,
+      "kinopoisk": 14975,
+      "imdb": 14538,
+      "tmdb": 0,
+      "world-art": 1519,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15496,
+      "kinopoisk": 5567,
+      "imdb": 5782,
+      "tmdb": 0,
+      "world-art": 3725,
+      "shikimori": 2974,
+      "none": 739
+    }
+  },
+  {
+    "date": 1618531200,
+    "movies": {
+      "all": 18954,
+      "kinopoisk": 14977,
+      "imdb": 14540,
+      "tmdb": 0,
+      "world-art": 1519,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15511,
+      "kinopoisk": 5569,
+      "imdb": 5785,
+      "tmdb": 0,
+      "world-art": 3725,
+      "shikimori": 2974,
+      "none": 743
+    }
+  },
+  {
+    "date": 1618617600,
+    "movies": {
+      "all": 18957,
+      "kinopoisk": 14977,
+      "imdb": 14540,
+      "tmdb": 0,
+      "world-art": 1520,
+      "shikimori": 1165,
+      "none": 135
+    },
+    "tv": {
+      "all": 15523,
+      "kinopoisk": 5573,
+      "imdb": 5790,
+      "tmdb": 0,
+      "world-art": 3726,
+      "shikimori": 2974,
+      "none": 743
+    }
+  },
+  {
+    "date": 1618704000,
+    "movies": {
+      "all": 18962,
+      "kinopoisk": 14981,
+      "imdb": 14545,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 135
+    },
+    "tv": {
+      "all": 15537,
+      "kinopoisk": 5574,
+      "imdb": 5792,
+      "tmdb": 0,
+      "world-art": 3727,
+      "shikimori": 2975,
+      "none": 742
+    }
+  },
+  {
+    "date": 1618790400,
+    "movies": {
+      "all": 18966,
+      "kinopoisk": 14985,
+      "imdb": 14549,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 135
+    },
+    "tv": {
+      "all": 15551,
+      "kinopoisk": 5574,
+      "imdb": 5792,
+      "tmdb": 0,
+      "world-art": 3727,
+      "shikimori": 2975,
+      "none": 742
+    }
+  },
+  {
+    "date": 1618876800,
+    "movies": {
+      "all": 18977,
+      "kinopoisk": 14991,
+      "imdb": 14555,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15562,
+      "kinopoisk": 5575,
+      "imdb": 5795,
+      "tmdb": 0,
+      "world-art": 3728,
+      "shikimori": 2975,
+      "none": 742
+    }
+  },
+  {
+    "date": 1618963200,
+    "movies": {
+      "all": 18983,
+      "kinopoisk": 14994,
+      "imdb": 14558,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15577,
+      "kinopoisk": 5575,
+      "imdb": 5796,
+      "tmdb": 0,
+      "world-art": 3729,
+      "shikimori": 2976,
+      "none": 745
+    }
+  },
+  {
+    "date": 1619049600,
+    "movies": {
+      "all": 18990,
+      "kinopoisk": 14999,
+      "imdb": 14564,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15585,
+      "kinopoisk": 5575,
+      "imdb": 5796,
+      "tmdb": 0,
+      "world-art": 3729,
+      "shikimori": 2976,
+      "none": 749
+    }
+  },
+  {
+    "date": 1619136000,
+    "movies": {
+      "all": 19009,
+      "kinopoisk": 15015,
+      "imdb": 14578,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15597,
+      "kinopoisk": 5578,
+      "imdb": 5799,
+      "tmdb": 0,
+      "world-art": 3729,
+      "shikimori": 2976,
+      "none": 753
+    }
+  },
+  {
+    "date": 1619222400,
+    "movies": {
+      "all": 19013,
+      "kinopoisk": 15017,
+      "imdb": 14580,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15610,
+      "kinopoisk": 5579,
+      "imdb": 5800,
+      "tmdb": 0,
+      "world-art": 3729,
+      "shikimori": 2977,
+      "none": 756
+    }
+  },
+  {
+    "date": 1619308800,
+    "movies": {
+      "all": 19016,
+      "kinopoisk": 15018,
+      "imdb": 14582,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15623,
+      "kinopoisk": 5581,
+      "imdb": 5804,
+      "tmdb": 0,
+      "world-art": 3730,
+      "shikimori": 2978,
+      "none": 759
+    }
+  },
+  {
+    "date": 1619395200,
+    "movies": {
+      "all": 19038,
+      "kinopoisk": 15038,
+      "imdb": 14600,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15628,
+      "kinopoisk": 5584,
+      "imdb": 5807,
+      "tmdb": 0,
+      "world-art": 3730,
+      "shikimori": 2978,
+      "none": 760
+    }
+  },
+  {
+    "date": 1619481600,
+    "movies": {
+      "all": 19060,
+      "kinopoisk": 15057,
+      "imdb": 14616,
+      "tmdb": 0,
+      "world-art": 1521,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15636,
+      "kinopoisk": 5592,
+      "imdb": 5813,
+      "tmdb": 0,
+      "world-art": 3734,
+      "shikimori": 2983,
+      "none": 762
+    }
+  },
+  {
+    "date": 1619568000,
+    "movies": {
+      "all": 19072,
+      "kinopoisk": 15066,
+      "imdb": 14625,
+      "tmdb": 0,
+      "world-art": 1523,
+      "shikimori": 1166,
+      "none": 137
+    },
+    "tv": {
+      "all": 15642,
+      "kinopoisk": 5594,
+      "imdb": 5815,
+      "tmdb": 0,
+      "world-art": 3734,
+      "shikimori": 2983,
+      "none": 764
+    }
+  },
+  {
+    "date": 1619654400,
+    "movies": {
+      "all": 19052,
+      "kinopoisk": 15047,
+      "imdb": 14607,
+      "tmdb": 0,
+      "world-art": 1528,
+      "shikimori": 1166,
+      "none": 138
+    },
+    "tv": {
+      "all": 15653,
+      "kinopoisk": 5597,
+      "imdb": 5818,
+      "tmdb": 0,
+      "world-art": 3735,
+      "shikimori": 2984,
+      "none": 765
+    }
+  },
+  {
+    "date": 1619740800,
+    "movies": {
+      "all": 19054,
+      "kinopoisk": 15048,
+      "imdb": 14608,
+      "tmdb": 0,
+      "world-art": 1529,
+      "shikimori": 1166,
+      "none": 138
+    },
+    "tv": {
+      "all": 15665,
+      "kinopoisk": 5599,
+      "imdb": 5819,
+      "tmdb": 0,
+      "world-art": 3736,
+      "shikimori": 2985,
+      "none": 768
+    }
+  },
+  {
+    "date": 1619827200,
+    "movies": {
+      "all": 19056,
+      "kinopoisk": 15050,
+      "imdb": 14610,
+      "tmdb": 0,
+      "world-art": 1529,
+      "shikimori": 1166,
+      "none": 138
+    },
+    "tv": {
+      "all": 15673,
+      "kinopoisk": 5599,
+      "imdb": 5820,
+      "tmdb": 0,
+      "world-art": 3737,
+      "shikimori": 2985,
+      "none": 770
+    }
+  },
+  {
+    "date": 1619913600,
+    "movies": {
+      "all": 19057,
+      "kinopoisk": 15050,
+      "imdb": 14610,
+      "tmdb": 0,
+      "world-art": 1529,
+      "shikimori": 1166,
+      "none": 138
+    },
+    "tv": {
+      "all": 15684,
+      "kinopoisk": 5601,
+      "imdb": 5824,
+      "tmdb": 0,
+      "world-art": 3737,
+      "shikimori": 2985,
+      "none": 771
+    }
+  },
+  {
+    "date": 1620000000,
+    "movies": {
+      "all": 19064,
+      "kinopoisk": 15054,
+      "imdb": 14613,
+      "tmdb": 0,
+      "world-art": 1529,
+      "shikimori": 1166,
+      "none": 138
+    },
+    "tv": {
+      "all": 15695,
+      "kinopoisk": 5604,
+      "imdb": 5827,
+      "tmdb": 0,
+      "world-art": 3737,
+      "shikimori": 2985,
+      "none": 772
+    }
+  },
+  {
+    "date": 1620086400,
+    "movies": {
+      "all": 19069,
+      "kinopoisk": 15057,
+      "imdb": 14616,
+      "tmdb": 0,
+      "world-art": 1529,
+      "shikimori": 1166,
+      "none": 138
+    },
+    "tv": {
+      "all": 15702,
+      "kinopoisk": 5606,
+      "imdb": 5829,
+      "tmdb": 0,
+      "world-art": 3738,
+      "shikimori": 2985,
+      "none": 773
+    }
+  },
+  {
+    "date": 1620172800,
+    "movies": {
+      "all": 19073,
+      "kinopoisk": 15060,
+      "imdb": 14619,
+      "tmdb": 0,
+      "world-art": 1530,
+      "shikimori": 1167,
+      "none": 138
+    },
+    "tv": {
+      "all": 15703,
+      "kinopoisk": 5607,
+      "imdb": 5831,
+      "tmdb": 0,
+      "world-art": 3738,
+      "shikimori": 2985,
+      "none": 772
+    }
+  },
+  {
+    "date": 1620259200,
+    "movies": {
+      "all": 19079,
+      "kinopoisk": 15062,
+      "imdb": 14621,
+      "tmdb": 0,
+      "world-art": 1532,
+      "shikimori": 1168,
+      "none": 138
+    },
+    "tv": {
+      "all": 15713,
+      "kinopoisk": 5610,
+      "imdb": 5835,
+      "tmdb": 0,
+      "world-art": 3739,
+      "shikimori": 2986,
+      "none": 771
+    }
+  },
+  {
+    "date": 1620345600,
+    "movies": {
+      "all": 19089,
+      "kinopoisk": 15066,
+      "imdb": 14625,
+      "tmdb": 0,
+      "world-art": 1534,
+      "shikimori": 1168,
+      "none": 138
+    },
+    "tv": {
+      "all": 15719,
+      "kinopoisk": 5611,
+      "imdb": 5837,
+      "tmdb": 0,
+      "world-art": 3740,
+      "shikimori": 2986,
+      "none": 769
+    }
+  },
+  {
+    "date": 1620518400,
+    "movies": {
+      "all": 19099,
+      "kinopoisk": 15072,
+      "imdb": 14629,
+      "tmdb": 0,
+      "world-art": 1534,
+      "shikimori": 1168,
+      "none": 138
+    },
+    "tv": {
+      "all": 15734,
+      "kinopoisk": 5618,
+      "imdb": 5844,
+      "tmdb": 0,
+      "world-art": 3741,
+      "shikimori": 2987,
+      "none": 770
+    }
+  },
+  {
+    "date": 1620604800,
+    "movies": {
+      "all": 19127,
+      "kinopoisk": 15096,
+      "imdb": 14650,
+      "tmdb": 0,
+      "world-art": 1534,
+      "shikimori": 1168,
+      "none": 138
+    },
+    "tv": {
+      "all": 15742,
+      "kinopoisk": 5618,
+      "imdb": 5845,
+      "tmdb": 0,
+      "world-art": 3741,
+      "shikimori": 2987,
+      "none": 770
+    }
+  },
+  {
+    "date": 1620691200,
+    "movies": {
+      "all": 19132,
+      "kinopoisk": 15098,
+      "imdb": 14651,
+      "tmdb": 0,
+      "world-art": 1534,
+      "shikimori": 1168,
+      "none": 138
+    },
+    "tv": {
+      "all": 15749,
+      "kinopoisk": 5618,
+      "imdb": 5845,
+      "tmdb": 0,
+      "world-art": 3742,
+      "shikimori": 2987,
+      "none": 772
+    }
+  },
+  {
+    "date": 1620777600,
+    "movies": {
+      "all": 19141,
+      "kinopoisk": 15102,
+      "imdb": 14655,
+      "tmdb": 0,
+      "world-art": 1534,
+      "shikimori": 1168,
+      "none": 138
+    },
+    "tv": {
+      "all": 15757,
+      "kinopoisk": 5620,
+      "imdb": 5846,
+      "tmdb": 0,
+      "world-art": 3742,
+      "shikimori": 2987,
+      "none": 774
+    }
+  },
+  {
+    "date": 1620864000,
+    "movies": {
+      "all": 19141,
+      "kinopoisk": 15102,
+      "imdb": 14655,
+      "tmdb": 0,
+      "world-art": 1534,
+      "shikimori": 1168,
+      "none": 138
+    },
+    "tv": {
+      "all": 15762,
+      "kinopoisk": 5623,
+      "imdb": 5849,
+      "tmdb": 0,
+      "world-art": 3743,
+      "shikimori": 2988,
+      "none": 772
+    }
+  },
+  {
+    "date": 1620950400,
+    "movies": {
+      "all": 19151,
+      "kinopoisk": 15109,
+      "imdb": 14662,
+      "tmdb": 0,
+      "world-art": 1537,
+      "shikimori": 1171,
+      "none": 138
+    },
+    "tv": {
+      "all": 15766,
+      "kinopoisk": 5624,
+      "imdb": 5851,
+      "tmdb": 0,
+      "world-art": 3744,
+      "shikimori": 2988,
+      "none": 773
+    }
+  },
+  {
+    "date": 1621036800,
+    "movies": {
+      "all": 19153,
+      "kinopoisk": 15111,
+      "imdb": 14664,
+      "tmdb": 0,
+      "world-art": 1538,
+      "shikimori": 1172,
+      "none": 138
+    },
+    "tv": {
+      "all": 15775,
+      "kinopoisk": 5625,
+      "imdb": 5853,
+      "tmdb": 0,
+      "world-art": 3748,
+      "shikimori": 2988,
+      "none": 773
+    }
+  },
+  {
+    "date": 1621123200,
+    "movies": {
+      "all": 19160,
+      "kinopoisk": 15115,
+      "imdb": 14668,
+      "tmdb": 0,
+      "world-art": 1540,
+      "shikimori": 1174,
+      "none": 138
+    },
+    "tv": {
+      "all": 15785,
+      "kinopoisk": 5630,
+      "imdb": 5859,
+      "tmdb": 0,
+      "world-art": 3748,
+      "shikimori": 2988,
+      "none": 776
+    }
+  },
+  {
+    "date": 1621296000,
+    "movies": {
+      "all": 19205,
+      "kinopoisk": 15136,
+      "imdb": 14689,
+      "tmdb": 0,
+      "world-art": 1541,
+      "shikimori": 1176,
+      "none": 138
+    },
+    "tv": {
+      "all": 15799,
+      "kinopoisk": 5633,
+      "imdb": 5861,
+      "tmdb": 0,
+      "world-art": 3750,
+      "shikimori": 2988,
+      "none": 779
+    }
+  },
+  {
+    "date": 1621382400,
+    "movies": {
+      "all": 19212,
+      "kinopoisk": 15141,
+      "imdb": 14694,
+      "tmdb": 0,
+      "world-art": 1541,
+      "shikimori": 1176,
+      "none": 138
+    },
+    "tv": {
+      "all": 15804,
+      "kinopoisk": 5634,
+      "imdb": 5862,
+      "tmdb": 0,
+      "world-art": 3750,
+      "shikimori": 2988,
+      "none": 781
+    }
+  },
+  {
+    "date": 1621468800,
+    "movies": {
+      "all": 19215,
+      "kinopoisk": 15142,
+      "imdb": 14695,
+      "tmdb": 0,
+      "world-art": 1541,
+      "shikimori": 1176,
+      "none": 138
+    },
+    "tv": {
+      "all": 15814,
+      "kinopoisk": 5640,
+      "imdb": 5868,
+      "tmdb": 0,
+      "world-art": 3750,
+      "shikimori": 2989,
+      "none": 781
+    }
+  },
+  {
+    "date": 1621555200,
+    "movies": {
+      "all": 19217,
+      "kinopoisk": 15143,
+      "imdb": 14696,
+      "tmdb": 0,
+      "world-art": 1541,
+      "shikimori": 1176,
+      "none": 138
+    },
+    "tv": {
+      "all": 15827,
+      "kinopoisk": 5642,
+      "imdb": 5870,
+      "tmdb": 0,
+      "world-art": 3757,
+      "shikimori": 2992,
+      "none": 780
+    }
+  },
+  {
+    "date": 1621641600,
+    "movies": {
+      "all": 19221,
+      "kinopoisk": 15145,
+      "imdb": 14698,
+      "tmdb": 0,
+      "world-art": 1541,
+      "shikimori": 1176,
+      "none": 138
+    },
+    "tv": {
+      "all": 15843,
+      "kinopoisk": 5648,
+      "imdb": 5875,
+      "tmdb": 0,
+      "world-art": 3758,
+      "shikimori": 2993,
+      "none": 784
+    }
+  },
+  {
+    "date": 1621728000,
+    "movies": {
+      "all": 19223,
+      "kinopoisk": 15146,
+      "imdb": 14699,
+      "tmdb": 0,
+      "world-art": 1541,
+      "shikimori": 1176,
+      "none": 138
+    },
+    "tv": {
+      "all": 15854,
+      "kinopoisk": 5649,
+      "imdb": 5876,
+      "tmdb": 0,
+      "world-art": 3758,
+      "shikimori": 2993,
+      "none": 787
+    }
+  },
+  {
+    "date": 1621814400,
+    "movies": {
+      "all": 19238,
+      "kinopoisk": 15158,
+      "imdb": 14711,
+      "tmdb": 0,
+      "world-art": 1542,
+      "shikimori": 1177,
+      "none": 138
+    },
+    "tv": {
+      "all": 15868,
+      "kinopoisk": 5652,
+      "imdb": 5879,
+      "tmdb": 0,
+      "world-art": 3758,
+      "shikimori": 2993,
+      "none": 789
+    }
+  },
+  {
+    "date": 1621900800,
+    "movies": {
+      "all": 19254,
+      "kinopoisk": 15168,
+      "imdb": 14722,
+      "tmdb": 0,
+      "world-art": 1543,
+      "shikimori": 1177,
+      "none": 139
+    },
+    "tv": {
+      "all": 15884,
+      "kinopoisk": 5657,
+      "imdb": 5885,
+      "tmdb": 0,
+      "world-art": 3758,
+      "shikimori": 2993,
+      "none": 788
+    }
+  },
+  {
+    "date": 1621987200,
+    "movies": {
+      "all": 19214,
+      "kinopoisk": 15137,
+      "imdb": 14690,
+      "tmdb": 0,
+      "world-art": 1541,
+      "shikimori": 1177,
+      "none": 139
+    },
+    "tv": {
+      "all": 15824,
+      "kinopoisk": 5646,
+      "imdb": 5877,
+      "tmdb": 0,
+      "world-art": 3745,
+      "shikimori": 2980,
+      "none": 787
+    }
+  },
+  {
+    "date": 1622073600,
+    "movies": {
+      "all": 19264,
+      "kinopoisk": 15170,
+      "imdb": 14724,
+      "tmdb": 0,
+      "world-art": 1543,
+      "shikimori": 1177,
+      "none": 139
+    },
+    "tv": {
+      "all": 15908,
+      "kinopoisk": 5665,
+      "imdb": 5895,
+      "tmdb": 0,
+      "world-art": 3759,
+      "shikimori": 2994,
+      "none": 792
+    }
+  },
+  {
+    "date": 1622160000,
+    "movies": {
+      "all": 19272,
+      "kinopoisk": 15175,
+      "imdb": 14728,
+      "tmdb": 0,
+      "world-art": 1543,
+      "shikimori": 1177,
+      "none": 139
+    },
+    "tv": {
+      "all": 15918,
+      "kinopoisk": 5669,
+      "imdb": 5899,
+      "tmdb": 0,
+      "world-art": 3761,
+      "shikimori": 2996,
+      "none": 793
+    }
+  },
+  {
+    "date": 1622764800,
+    "movies": {
+      "all": 19326,
+      "kinopoisk": 15210,
+      "imdb": 14763,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 142
+    },
+    "tv": {
+      "all": 15987,
+      "kinopoisk": 5688,
+      "imdb": 5926,
+      "tmdb": 0,
+      "world-art": 3773,
+      "shikimori": 2999,
+      "none": 799
+    }
+  },
+  {
+    "date": 1622851200,
+    "movies": {
+      "all": 19330,
+      "kinopoisk": 15213,
+      "imdb": 14766,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 142
+    },
+    "tv": {
+      "all": 15991,
+      "kinopoisk": 5688,
+      "imdb": 5926,
+      "tmdb": 0,
+      "world-art": 3773,
+      "shikimori": 2999,
+      "none": 800
+    }
+  },
+  {
+    "date": 1622937600,
+    "movies": {
+      "all": 19336,
+      "kinopoisk": 15213,
+      "imdb": 14766,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 142
+    },
+    "tv": {
+      "all": 15999,
+      "kinopoisk": 5688,
+      "imdb": 5926,
+      "tmdb": 0,
+      "world-art": 3773,
+      "shikimori": 2999,
+      "none": 801
+    }
+  },
+  {
+    "date": 1623024000,
+    "movies": {
+      "all": 19352,
+      "kinopoisk": 15226,
+      "imdb": 14779,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 142
+    },
+    "tv": {
+      "all": 16011,
+      "kinopoisk": 5692,
+      "imdb": 5929,
+      "tmdb": 0,
+      "world-art": 3773,
+      "shikimori": 2999,
+      "none": 802
+    }
+  },
+  {
+    "date": 1623110400,
+    "movies": {
+      "all": 19368,
+      "kinopoisk": 15240,
+      "imdb": 14793,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 142
+    },
+    "tv": {
+      "all": 16015,
+      "kinopoisk": 5693,
+      "imdb": 5930,
+      "tmdb": 0,
+      "world-art": 3773,
+      "shikimori": 2999,
+      "none": 802
+    }
+  },
+  {
+    "date": 1623196800,
+    "movies": {
+      "all": 19371,
+      "kinopoisk": 15243,
+      "imdb": 14796,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 142
+    },
+    "tv": {
+      "all": 16019,
+      "kinopoisk": 5694,
+      "imdb": 5931,
+      "tmdb": 0,
+      "world-art": 3773,
+      "shikimori": 2999,
+      "none": 802
+    }
+  },
+  {
+    "date": 1623283200,
+    "movies": {
+      "all": 19377,
+      "kinopoisk": 15244,
+      "imdb": 14797,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 143
+    },
+    "tv": {
+      "all": 16030,
+      "kinopoisk": 5697,
+      "imdb": 5933,
+      "tmdb": 0,
+      "world-art": 3774,
+      "shikimori": 2999,
+      "none": 807
+    }
+  },
+  {
+    "date": 1623369600,
+    "movies": {
+      "all": 19385,
+      "kinopoisk": 15249,
+      "imdb": 14802,
+      "tmdb": 0,
+      "world-art": 1545,
+      "shikimori": 1179,
+      "none": 143
+    },
+    "tv": {
+      "all": 16033,
+      "kinopoisk": 5698,
+      "imdb": 5934,
+      "tmdb": 0,
+      "world-art": 3774,
+      "shikimori": 2999,
+      "none": 807
+    }
+  },
+  {
+    "date": 1623456000,
+    "movies": {
+      "all": 19394,
+      "kinopoisk": 15256,
+      "imdb": 14808,
+      "tmdb": 0,
+      "world-art": 1546,
+      "shikimori": 1180,
+      "none": 143
+    },
+    "tv": {
+      "all": 16047,
+      "kinopoisk": 5703,
+      "imdb": 5940,
+      "tmdb": 0,
+      "world-art": 3774,
+      "shikimori": 2999,
+      "none": 809
+    }
+  },
+  {
+    "date": 1623542400,
+    "movies": {
+      "all": 19396,
+      "kinopoisk": 15257,
+      "imdb": 14810,
+      "tmdb": 0,
+      "world-art": 1548,
+      "shikimori": 1181,
+      "none": 143
+    },
+    "tv": {
+      "all": 16056,
+      "kinopoisk": 5703,
+      "imdb": 5940,
+      "tmdb": 0,
+      "world-art": 3775,
+      "shikimori": 2999,
+      "none": 809
+    }
+  },
+  {
+    "date": 1623628800,
+    "movies": {
+      "all": 19434,
+      "kinopoisk": 15266,
+      "imdb": 14821,
+      "tmdb": 0,
+      "world-art": 1550,
+      "shikimori": 1187,
+      "none": 145
+    },
+    "tv": {
+      "all": 16085,
+      "kinopoisk": 5708,
+      "imdb": 5945,
+      "tmdb": 0,
+      "world-art": 3776,
+      "shikimori": 2999,
+      "none": 815
+    }
+  },
+  {
+    "date": 1623715200,
+    "movies": {
+      "all": 19448,
+      "kinopoisk": 15274,
+      "imdb": 14828,
+      "tmdb": 0,
+      "world-art": 1550,
+      "shikimori": 1188,
+      "none": 145
+    },
+    "tv": {
+      "all": 16096,
+      "kinopoisk": 5709,
+      "imdb": 5947,
+      "tmdb": 0,
+      "world-art": 3776,
+      "shikimori": 2999,
+      "none": 815
+    }
+  },
+  {
+    "date": 1623801600,
+    "movies": {
+      "all": 19470,
+      "kinopoisk": 15291,
+      "imdb": 14841,
+      "tmdb": 0,
+      "world-art": 1550,
+      "shikimori": 1188,
+      "none": 145
+    },
+    "tv": {
+      "all": 16102,
+      "kinopoisk": 5710,
+      "imdb": 5948,
+      "tmdb": 0,
+      "world-art": 3776,
+      "shikimori": 2999,
+      "none": 817
+    }
+  },
+  {
+    "date": 1623888000,
+    "movies": {
+      "all": 19477,
+      "kinopoisk": 15295,
+      "imdb": 14846,
+      "tmdb": 0,
+      "world-art": 1551,
+      "shikimori": 1189,
+      "none": 145
+    },
+    "tv": {
+      "all": 16107,
+      "kinopoisk": 5714,
+      "imdb": 5951,
+      "tmdb": 0,
+      "world-art": 3777,
+      "shikimori": 3000,
+      "none": 817
+    }
+  },
+  {
+    "date": 1623974400,
+    "movies": {
+      "all": 19478,
+      "kinopoisk": 15295,
+      "imdb": 14846,
+      "tmdb": 0,
+      "world-art": 1551,
+      "shikimori": 1189,
+      "none": 145
+    },
+    "tv": {
+      "all": 16123,
+      "kinopoisk": 5721,
+      "imdb": 5959,
+      "tmdb": 0,
+      "world-art": 3779,
+      "shikimori": 3000,
+      "none": 819
+    }
+  },
+  {
+    "date": 1624060800,
+    "movies": {
+      "all": 19483,
+      "kinopoisk": 15298,
+      "imdb": 14849,
+      "tmdb": 0,
+      "world-art": 1551,
+      "shikimori": 1189,
+      "none": 145
+    },
+    "tv": {
+      "all": 16135,
+      "kinopoisk": 5722,
+      "imdb": 5961,
+      "tmdb": 0,
+      "world-art": 3781,
+      "shikimori": 3001,
+      "none": 820
+    }
+  },
+  {
+    "date": 1624147200,
+    "movies": {
+      "all": 19487,
+      "kinopoisk": 15298,
+      "imdb": 14849,
+      "tmdb": 0,
+      "world-art": 1552,
+      "shikimori": 1189,
+      "none": 145
+    },
+    "tv": {
+      "all": 16152,
+      "kinopoisk": 5725,
+      "imdb": 5964,
+      "tmdb": 0,
+      "world-art": 3782,
+      "shikimori": 3002,
+      "none": 822
+    }
+  },
+  {
+    "date": 1624233600,
+    "movies": {
+      "all": 19490,
+      "kinopoisk": 15299,
+      "imdb": 14850,
+      "tmdb": 0,
+      "world-art": 1552,
+      "shikimori": 1189,
+      "none": 145
+    },
+    "tv": {
+      "all": 16171,
+      "kinopoisk": 5731,
+      "imdb": 5971,
+      "tmdb": 0,
+      "world-art": 3782,
+      "shikimori": 3002,
+      "none": 823
+    }
+  },
+  {
+    "date": 1624320000,
+    "movies": {
+      "all": 19504,
+      "kinopoisk": 15303,
+      "imdb": 14853,
+      "tmdb": 0,
+      "world-art": 1553,
+      "shikimori": 1192,
+      "none": 145
+    },
+    "tv": {
+      "all": 16191,
+      "kinopoisk": 5737,
+      "imdb": 5975,
+      "tmdb": 0,
+      "world-art": 3784,
+      "shikimori": 3002,
+      "none": 823
+    }
+  },
+  {
+    "date": 1624406400,
+    "movies": {
+      "all": 19508,
+      "kinopoisk": 15304,
+      "imdb": 14853,
+      "tmdb": 0,
+      "world-art": 1554,
+      "shikimori": 1193,
+      "none": 145
+    },
+    "tv": {
+      "all": 16207,
+      "kinopoisk": 5741,
+      "imdb": 5978,
+      "tmdb": 0,
+      "world-art": 3785,
+      "shikimori": 3003,
+      "none": 824
+    }
+  },
+  {
+    "date": 1624492800,
+    "movies": {
+      "all": 19519,
+      "kinopoisk": 15307,
+      "imdb": 14857,
+      "tmdb": 0,
+      "world-art": 1556,
+      "shikimori": 1195,
+      "none": 145
+    },
+    "tv": {
+      "all": 16217,
+      "kinopoisk": 5743,
+      "imdb": 5981,
+      "tmdb": 0,
+      "world-art": 3785,
+      "shikimori": 3003,
+      "none": 828
+    }
+  },
+  {
+    "date": 1624579200,
+    "movies": {
+      "all": 19541,
+      "kinopoisk": 15320,
+      "imdb": 14867,
+      "tmdb": 0,
+      "world-art": 1556,
+      "shikimori": 1195,
+      "none": 145
+    },
+    "tv": {
+      "all": 16227,
+      "kinopoisk": 5746,
+      "imdb": 5985,
+      "tmdb": 0,
+      "world-art": 3785,
+      "shikimori": 3003,
+      "none": 830
+    }
+  },
+  {
+    "date": 1624665600,
+    "movies": {
+      "all": 19542,
+      "kinopoisk": 15320,
+      "imdb": 14867,
+      "tmdb": 0,
+      "world-art": 1556,
+      "shikimori": 1195,
+      "none": 145
+    },
+    "tv": {
+      "all": 16238,
+      "kinopoisk": 5749,
+      "imdb": 5987,
+      "tmdb": 0,
+      "world-art": 3785,
+      "shikimori": 3004,
+      "none": 831
+    }
+  },
+  {
+    "date": 1624752000,
+    "movies": {
+      "all": 19544,
+      "kinopoisk": 15321,
+      "imdb": 14868,
+      "tmdb": 0,
+      "world-art": 1556,
+      "shikimori": 1195,
+      "none": 145
+    },
+    "tv": {
+      "all": 16247,
+      "kinopoisk": 5752,
+      "imdb": 5991,
+      "tmdb": 0,
+      "world-art": 3785,
+      "shikimori": 3005,
+      "none": 834
+    }
+  },
+  {
+    "date": 1624838400,
+    "movies": {
+      "all": 19552,
+      "kinopoisk": 15323,
+      "imdb": 14870,
+      "tmdb": 0,
+      "world-art": 1556,
+      "shikimori": 1195,
+      "none": 145
+    },
+    "tv": {
+      "all": 16250,
+      "kinopoisk": 5753,
+      "imdb": 5992,
+      "tmdb": 0,
+      "world-art": 3785,
+      "shikimori": 3005,
+      "none": 836
+    }
+  },
+  {
+    "date": 1624924800,
+    "movies": {
+      "all": 19558,
+      "kinopoisk": 15326,
+      "imdb": 14873,
+      "tmdb": 0,
+      "world-art": 1557,
+      "shikimori": 1196,
+      "none": 145
+    },
+    "tv": {
+      "all": 16261,
+      "kinopoisk": 5754,
+      "imdb": 5996,
+      "tmdb": 0,
+      "world-art": 3785,
+      "shikimori": 3005,
+      "none": 837
+    }
+  },
+  {
+    "date": 1625011200,
+    "movies": {
+      "all": 19585,
+      "kinopoisk": 15327,
+      "imdb": 14876,
+      "tmdb": 0,
+      "world-art": 1557,
+      "shikimori": 1196,
+      "none": 145
+    },
+    "tv": {
+      "all": 16270,
+      "kinopoisk": 5758,
+      "imdb": 6002,
+      "tmdb": 0,
+      "world-art": 3786,
+      "shikimori": 3006,
+      "none": 837
+    }
+  },
+  {
+    "date": 1625097600,
+    "movies": {
+      "all": 19608,
+      "kinopoisk": 15330,
+      "imdb": 14879,
+      "tmdb": 0,
+      "world-art": 1560,
+      "shikimori": 1199,
+      "none": 145
+    },
+    "tv": {
+      "all": 16272,
+      "kinopoisk": 5761,
+      "imdb": 6005,
+      "tmdb": 0,
+      "world-art": 3788,
+      "shikimori": 3008,
+      "none": 836
+    }
+  },
+  {
+    "date": 1625184000,
+    "movies": {
+      "all": 19624,
+      "kinopoisk": 15337,
+      "imdb": 14886,
+      "tmdb": 0,
+      "world-art": 1564,
+      "shikimori": 1200,
+      "none": 145
+    },
+    "tv": {
+      "all": 16282,
+      "kinopoisk": 5763,
+      "imdb": 6006,
+      "tmdb": 0,
+      "world-art": 3789,
+      "shikimori": 3010,
+      "none": 836
+    }
+  },
+  {
+    "date": 1625270400,
+    "movies": {
+      "all": 19635,
+      "kinopoisk": 15342,
+      "imdb": 14891,
+      "tmdb": 0,
+      "world-art": 1564,
+      "shikimori": 1200,
+      "none": 145
+    },
+    "tv": {
+      "all": 16301,
+      "kinopoisk": 5766,
+      "imdb": 6009,
+      "tmdb": 0,
+      "world-art": 3793,
+      "shikimori": 3014,
+      "none": 836
+    }
+  },
+  {
+    "date": 1625356800,
+    "movies": {
+      "all": 19642,
+      "kinopoisk": 15343,
+      "imdb": 14892,
+      "tmdb": 0,
+      "world-art": 1564,
+      "shikimori": 1200,
+      "none": 145
+    },
+    "tv": {
+      "all": 16330,
+      "kinopoisk": 5770,
+      "imdb": 6016,
+      "tmdb": 0,
+      "world-art": 3798,
+      "shikimori": 3016,
+      "none": 838
+    }
+  },
+  {
+    "date": 1625443200,
+    "movies": {
+      "all": 19650,
+      "kinopoisk": 15347,
+      "imdb": 14896,
+      "tmdb": 0,
+      "world-art": 1564,
+      "shikimori": 1200,
+      "none": 145
+    },
+    "tv": {
+      "all": 16278,
+      "kinopoisk": 5772,
+      "imdb": 6018,
+      "tmdb": 0,
+      "world-art": 3800,
+      "shikimori": 3018,
+      "none": 841
+    }
+  },
+  {
+    "date": 1625529600,
+    "movies": {
+      "all": 19652,
+      "kinopoisk": 15347,
+      "imdb": 14896,
+      "tmdb": 0,
+      "world-art": 1565,
+      "shikimori": 1200,
+      "none": 145
+    },
+    "tv": {
+      "all": 16311,
+      "kinopoisk": 5774,
+      "imdb": 6019,
+      "tmdb": 0,
+      "world-art": 3804,
+      "shikimori": 3020,
+      "none": 841
+    }
+  },
+  {
+    "date": 1625616000,
+    "movies": {
+      "all": 19660,
+      "kinopoisk": 15350,
+      "imdb": 14899,
+      "tmdb": 0,
+      "world-art": 1565,
+      "shikimori": 1200,
+      "none": 145
+    },
+    "tv": {
+      "all": 16339,
+      "kinopoisk": 5777,
+      "imdb": 6022,
+      "tmdb": 0,
+      "world-art": 3808,
+      "shikimori": 3023,
+      "none": 843
+    }
+  },
+  {
+    "date": 1625702400,
+    "movies": {
+      "all": 19679,
+      "kinopoisk": 15357,
+      "imdb": 14905,
+      "tmdb": 0,
+      "world-art": 1567,
+      "shikimori": 1200,
+      "none": 145
+    },
+    "tv": {
+      "all": 16359,
+      "kinopoisk": 5777,
+      "imdb": 6023,
+      "tmdb": 0,
+      "world-art": 3812,
+      "shikimori": 3024,
+      "none": 843
+    }
+  },
+  {
+    "date": 1625788800,
+    "movies": {
+      "all": 19655,
+      "kinopoisk": 15328,
+      "imdb": 14876,
+      "tmdb": 0,
+      "world-art": 1563,
+      "shikimori": 1197,
+      "none": 145
+    },
+    "tv": {
+      "all": 16313,
+      "kinopoisk": 5766,
+      "imdb": 6017,
+      "tmdb": 0,
+      "world-art": 3803,
+      "shikimori": 3016,
+      "none": 843
+    }
+  },
+  {
+    "date": 1625875200,
+    "movies": {
+      "all": 19684,
+      "kinopoisk": 15359,
+      "imdb": 14907,
+      "tmdb": 0,
+      "world-art": 1569,
+      "shikimori": 1201,
+      "none": 145
+    },
+    "tv": {
+      "all": 16394,
+      "kinopoisk": 5782,
+      "imdb": 6033,
+      "tmdb": 0,
+      "world-art": 3817,
+      "shikimori": 3027,
+      "none": 848
+    }
+  },
+  {
+    "date": 1625961600,
+    "movies": {
+      "all": 19689,
+      "kinopoisk": 15360,
+      "imdb": 14909,
+      "tmdb": 0,
+      "world-art": 1569,
+      "shikimori": 1201,
+      "none": 145
+    },
+    "tv": {
+      "all": 16416,
+      "kinopoisk": 5784,
+      "imdb": 6035,
+      "tmdb": 0,
+      "world-art": 3818,
+      "shikimori": 3028,
+      "none": 852
+    }
+  },
+  {
+    "date": 1626048000,
+    "movies": {
+      "all": 19694,
+      "kinopoisk": 15361,
+      "imdb": 14910,
+      "tmdb": 0,
+      "world-art": 1569,
+      "shikimori": 1201,
+      "none": 145
+    },
+    "tv": {
+      "all": 16434,
+      "kinopoisk": 5785,
+      "imdb": 6037,
+      "tmdb": 0,
+      "world-art": 3818,
+      "shikimori": 3028,
+      "none": 858
+    }
+  },
+  {
+    "date": 1626134400,
+    "movies": {
+      "all": 19708,
+      "kinopoisk": 15363,
+      "imdb": 14912,
+      "tmdb": 0,
+      "world-art": 1570,
+      "shikimori": 1201,
+      "none": 145
+    },
+    "tv": {
+      "all": 16450,
+      "kinopoisk": 5786,
+      "imdb": 6040,
+      "tmdb": 0,
+      "world-art": 3819,
+      "shikimori": 3028,
+      "none": 860
+    }
+  },
+  {
+    "date": 1626220800,
+    "movies": {
+      "all": 19716,
+      "kinopoisk": 15367,
+      "imdb": 14916,
+      "tmdb": 0,
+      "world-art": 1570,
+      "shikimori": 1201,
+      "none": 145
+    },
+    "tv": {
+      "all": 16469,
+      "kinopoisk": 5787,
+      "imdb": 6042,
+      "tmdb": 0,
+      "world-art": 3821,
+      "shikimori": 3029,
+      "none": 867
+    }
+  },
+  {
+    "date": 1626307200,
+    "movies": {
+      "all": 19725,
+      "kinopoisk": 15369,
+      "imdb": 14919,
+      "tmdb": 0,
+      "world-art": 1571,
+      "shikimori": 1202,
+      "none": 147
+    },
+    "tv": {
+      "all": 16477,
+      "kinopoisk": 5789,
+      "imdb": 6045,
+      "tmdb": 0,
+      "world-art": 3823,
+      "shikimori": 3029,
+      "none": 866
+    }
+  },
+  {
+    "date": 1626393600,
+    "movies": {
+      "all": 19727,
+      "kinopoisk": 15370,
+      "imdb": 14920,
+      "tmdb": 0,
+      "world-art": 1571,
+      "shikimori": 1202,
+      "none": 147
+    },
+    "tv": {
+      "all": 16487,
+      "kinopoisk": 5789,
+      "imdb": 6046,
+      "tmdb": 0,
+      "world-art": 3823,
+      "shikimori": 3029,
+      "none": 872
+    }
+  },
+  {
+    "date": 1626480000,
+    "movies": {
+      "all": 19731,
+      "kinopoisk": 15372,
+      "imdb": 14922,
+      "tmdb": 0,
+      "world-art": 1571,
+      "shikimori": 1202,
+      "none": 147
+    },
+    "tv": {
+      "all": 16495,
+      "kinopoisk": 5789,
+      "imdb": 6047,
+      "tmdb": 0,
+      "world-art": 3823,
+      "shikimori": 3029,
+      "none": 875
+    }
+  },
+  {
+    "date": 1626652800,
+    "movies": {
+      "all": 19738,
+      "kinopoisk": 15375,
+      "imdb": 14925,
+      "tmdb": 0,
+      "world-art": 1571,
+      "shikimori": 1202,
+      "none": 147
+    },
+    "tv": {
+      "all": 16513,
+      "kinopoisk": 5792,
+      "imdb": 6049,
+      "tmdb": 0,
+      "world-art": 3824,
+      "shikimori": 3030,
+      "none": 875
+    }
+  },
+  {
+    "date": 1626739200,
+    "movies": {
+      "all": 19744,
+      "kinopoisk": 15381,
+      "imdb": 14930,
+      "tmdb": 0,
+      "world-art": 1573,
+      "shikimori": 1204,
+      "none": 147
+    },
+    "tv": {
+      "all": 16529,
+      "kinopoisk": 5793,
+      "imdb": 6049,
+      "tmdb": 0,
+      "world-art": 3825,
+      "shikimori": 3031,
+      "none": 875
+    }
+  },
+  {
+    "date": 1626825600,
+    "movies": {
+      "all": 19748,
+      "kinopoisk": 15384,
+      "imdb": 14933,
+      "tmdb": 0,
+      "world-art": 1574,
+      "shikimori": 1205,
+      "none": 148
+    },
+    "tv": {
+      "all": 16543,
+      "kinopoisk": 5795,
+      "imdb": 6051,
+      "tmdb": 0,
+      "world-art": 3826,
+      "shikimori": 3032,
+      "none": 878
+    }
+  },
+  {
+    "date": 1626912000,
+    "movies": {
+      "all": 19755,
+      "kinopoisk": 15386,
+      "imdb": 14935,
+      "tmdb": 0,
+      "world-art": 1574,
+      "shikimori": 1205,
+      "none": 148
+    },
+    "tv": {
+      "all": 16545,
+      "kinopoisk": 5795,
+      "imdb": 6051,
+      "tmdb": 0,
+      "world-art": 3826,
+      "shikimori": 3032,
+      "none": 878
+    }
+  },
+  {
+    "date": 1626998400,
+    "movies": {
+      "all": 19769,
+      "kinopoisk": 15392,
+      "imdb": 14941,
+      "tmdb": 0,
+      "world-art": 1575,
+      "shikimori": 1206,
+      "none": 148
+    },
+    "tv": {
+      "all": 16553,
+      "kinopoisk": 5797,
+      "imdb": 6054,
+      "tmdb": 0,
+      "world-art": 3827,
+      "shikimori": 3033,
+      "none": 878
+    }
+  },
+  {
+    "date": 1627084800,
+    "movies": {
+      "all": 19774,
+      "kinopoisk": 15395,
+      "imdb": 14943,
+      "tmdb": 0,
+      "world-art": 1575,
+      "shikimori": 1206,
+      "none": 148
+    },
+    "tv": {
+      "all": 16575,
+      "kinopoisk": 5801,
+      "imdb": 6059,
+      "tmdb": 0,
+      "world-art": 3830,
+      "shikimori": 3034,
+      "none": 879
+    }
+  },
+  {
+    "date": 1627171200,
+    "movies": {
+      "all": 19783,
+      "kinopoisk": 15396,
+      "imdb": 14944,
+      "tmdb": 0,
+      "world-art": 1575,
+      "shikimori": 1206,
+      "none": 148
+    },
+    "tv": {
+      "all": 16584,
+      "kinopoisk": 5803,
+      "imdb": 6060,
+      "tmdb": 0,
+      "world-art": 3831,
+      "shikimori": 3035,
+      "none": 882
+    }
+  },
+  {
+    "date": 1627257600,
+    "movies": {
+      "all": 19793,
+      "kinopoisk": 15401,
+      "imdb": 14949,
+      "tmdb": 0,
+      "world-art": 1575,
+      "shikimori": 1206,
+      "none": 148
+    },
+    "tv": {
+      "all": 16589,
+      "kinopoisk": 5804,
+      "imdb": 6060,
+      "tmdb": 0,
+      "world-art": 3831,
+      "shikimori": 3035,
+      "none": 883
+    }
+  },
+  {
+    "date": 1627344000,
+    "movies": {
+      "all": 19803,
+      "kinopoisk": 15401,
+      "imdb": 14950,
+      "tmdb": 0,
+      "world-art": 1580,
+      "shikimori": 1207,
+      "none": 148
+    },
+    "tv": {
+      "all": 16609,
+      "kinopoisk": 5807,
+      "imdb": 6062,
+      "tmdb": 0,
+      "world-art": 3831,
+      "shikimori": 3036,
+      "none": 889
+    }
+  },
+  {
+    "date": 1627430400,
+    "movies": {
+      "all": 19806,
+      "kinopoisk": 15403,
+      "imdb": 14952,
+      "tmdb": 0,
+      "world-art": 1580,
+      "shikimori": 1207,
+      "none": 148
+    },
+    "tv": {
+      "all": 16620,
+      "kinopoisk": 5808,
+      "imdb": 6063,
+      "tmdb": 0,
+      "world-art": 3833,
+      "shikimori": 3037,
+      "none": 890
+    }
+  },
+  {
+    "date": 1627516800,
+    "movies": {
+      "all": 19811,
+      "kinopoisk": 15404,
+      "imdb": 14953,
+      "tmdb": 0,
+      "world-art": 1580,
+      "shikimori": 1207,
+      "none": 148
+    },
+    "tv": {
+      "all": 16631,
+      "kinopoisk": 5810,
+      "imdb": 6066,
+      "tmdb": 0,
+      "world-art": 3835,
+      "shikimori": 3038,
+      "none": 893
+    }
+  },
+  {
+    "date": 1627603200,
+    "movies": {
+      "all": 19830,
+      "kinopoisk": 15421,
+      "imdb": 14969,
+      "tmdb": 0,
+      "world-art": 1582,
+      "shikimori": 1208,
+      "none": 148
+    },
+    "tv": {
+      "all": 16640,
+      "kinopoisk": 5810,
+      "imdb": 6067,
+      "tmdb": 0,
+      "world-art": 3837,
+      "shikimori": 3038,
+      "none": 896
+    }
+  },
+  {
+    "date": 1627689600,
+    "movies": {
+      "all": 19832,
+      "kinopoisk": 15423,
+      "imdb": 14971,
+      "tmdb": 0,
+      "world-art": 1584,
+      "shikimori": 1210,
+      "none": 148
+    },
+    "tv": {
+      "all": 16659,
+      "kinopoisk": 5810,
+      "imdb": 6068,
+      "tmdb": 0,
+      "world-art": 3837,
+      "shikimori": 3038,
+      "none": 897
+    }
+  },
+  {
+    "date": 1627776000,
+    "movies": {
+      "all": 19838,
+      "kinopoisk": 15424,
+      "imdb": 14972,
+      "tmdb": 0,
+      "world-art": 1585,
+      "shikimori": 1210,
+      "none": 148
+    },
+    "tv": {
+      "all": 16681,
+      "kinopoisk": 5811,
+      "imdb": 6071,
+      "tmdb": 0,
+      "world-art": 3838,
+      "shikimori": 3038,
+      "none": 904
+    }
+  },
+  {
+    "date": 1627862400,
+    "movies": {
+      "all": 19852,
+      "kinopoisk": 15429,
+      "imdb": 14976,
+      "tmdb": 0,
+      "world-art": 1587,
+      "shikimori": 1211,
+      "none": 148
+    },
+    "tv": {
+      "all": 16699,
+      "kinopoisk": 5814,
+      "imdb": 6076,
+      "tmdb": 0,
+      "world-art": 3840,
+      "shikimori": 3038,
+      "none": 907
+    }
+  },
+  {
+    "date": 1627948800,
+    "movies": {
+      "all": 19862,
+      "kinopoisk": 15430,
+      "imdb": 14977,
+      "tmdb": 0,
+      "world-art": 1587,
+      "shikimori": 1211,
+      "none": 148
+    },
+    "tv": {
+      "all": 16711,
+      "kinopoisk": 5815,
+      "imdb": 6078,
+      "tmdb": 0,
+      "world-art": 3841,
+      "shikimori": 3039,
+      "none": 910
+    }
+  },
+  {
+    "date": 1628035200,
+    "movies": {
+      "all": 19865,
+      "kinopoisk": 15430,
+      "imdb": 14977,
+      "tmdb": 0,
+      "world-art": 1588,
+      "shikimori": 1211,
+      "none": 148
+    },
+    "tv": {
+      "all": 16723,
+      "kinopoisk": 5815,
+      "imdb": 6078,
+      "tmdb": 0,
+      "world-art": 3841,
+      "shikimori": 3039,
+      "none": 912
+    }
+  },
+  {
+    "date": 1628121600,
+    "movies": {
+      "all": 19865,
+      "kinopoisk": 15430,
+      "imdb": 14977,
+      "tmdb": 0,
+      "world-art": 1588,
+      "shikimori": 1211,
+      "none": 148
+    },
+    "tv": {
+      "all": 16738,
+      "kinopoisk": 5817,
+      "imdb": 6081,
+      "tmdb": 0,
+      "world-art": 3842,
+      "shikimori": 3039,
+      "none": 914
+    }
+  },
+  {
+    "date": 1628208000,
+    "movies": {
+      "all": 19865,
+      "kinopoisk": 15430,
+      "imdb": 14977,
+      "tmdb": 0,
+      "world-art": 1588,
+      "shikimori": 1211,
+      "none": 148
+    },
+    "tv": {
+      "all": 16745,
+      "kinopoisk": 5817,
+      "imdb": 6082,
+      "tmdb": 0,
+      "world-art": 3842,
+      "shikimori": 3039,
+      "none": 914
+    }
+  },
+  {
+    "date": 1628294400,
+    "movies": {
+      "all": 19869,
+      "kinopoisk": 15430,
+      "imdb": 14977,
+      "tmdb": 0,
+      "world-art": 1589,
+      "shikimori": 1211,
+      "none": 148
+    },
+    "tv": {
+      "all": 16756,
+      "kinopoisk": 5818,
+      "imdb": 6083,
+      "tmdb": 0,
+      "world-art": 3843,
+      "shikimori": 3040,
+      "none": 916
+    }
+  },
+  {
+    "date": 1628380800,
+    "movies": {
+      "all": 19882,
+      "kinopoisk": 15435,
+      "imdb": 14982,
+      "tmdb": 0,
+      "world-art": 1590,
+      "shikimori": 1212,
+      "none": 148
+    },
+    "tv": {
+      "all": 16774,
+      "kinopoisk": 5825,
+      "imdb": 6089,
+      "tmdb": 0,
+      "world-art": 3843,
+      "shikimori": 3040,
+      "none": 917
+    }
+  },
+  {
+    "date": 1628467200,
+    "movies": {
+      "all": 19901,
+      "kinopoisk": 15440,
+      "imdb": 14988,
+      "tmdb": 0,
+      "world-art": 1591,
+      "shikimori": 1213,
+      "none": 148
+    },
+    "tv": {
+      "all": 16792,
+      "kinopoisk": 5829,
+      "imdb": 6094,
+      "tmdb": 0,
+      "world-art": 3844,
+      "shikimori": 3043,
+      "none": 913
+    }
+  },
+  {
+    "date": 1628640000,
+    "movies": {
+      "all": 19927,
+      "kinopoisk": 15449,
+      "imdb": 14998,
+      "tmdb": 0,
+      "world-art": 1593,
+      "shikimori": 1214,
+      "none": 148
+    },
+    "tv": {
+      "all": 16851,
+      "kinopoisk": 5835,
+      "imdb": 6099,
+      "tmdb": 0,
+      "world-art": 3848,
+      "shikimori": 3044,
+      "none": 923
+    }
+  },
+  {
+    "date": 1628726400,
+    "movies": {
+      "all": 19933,
+      "kinopoisk": 15451,
+      "imdb": 15000,
+      "tmdb": 0,
+      "world-art": 1594,
+      "shikimori": 1215,
+      "none": 148
+    },
+    "tv": {
+      "all": 16867,
+      "kinopoisk": 5837,
+      "imdb": 6102,
+      "tmdb": 0,
+      "world-art": 3848,
+      "shikimori": 3044,
+      "none": 924
+    }
+  },
+  {
+    "date": 1628812800,
+    "movies": {
+      "all": 19942,
+      "kinopoisk": 15455,
+      "imdb": 15004,
+      "tmdb": 0,
+      "world-art": 1598,
+      "shikimori": 1218,
+      "none": 148
+    },
+    "tv": {
+      "all": 16886,
+      "kinopoisk": 5839,
+      "imdb": 6104,
+      "tmdb": 0,
+      "world-art": 3852,
+      "shikimori": 3046,
+      "none": 924
+    }
+  },
+  {
+    "date": 1628899200,
+    "movies": {
+      "all": 19947,
+      "kinopoisk": 15458,
+      "imdb": 15007,
+      "tmdb": 0,
+      "world-art": 1599,
+      "shikimori": 1220,
+      "none": 148
+    },
+    "tv": {
+      "all": 16897,
+      "kinopoisk": 5840,
+      "imdb": 6105,
+      "tmdb": 0,
+      "world-art": 3852,
+      "shikimori": 3046,
+      "none": 925
+    }
+  },
+  {
+    "date": 1628985600,
+    "movies": {
+      "all": 19952,
+      "kinopoisk": 15460,
+      "imdb": 15009,
+      "tmdb": 0,
+      "world-art": 1601,
+      "shikimori": 1221,
+      "none": 148
+    },
+    "tv": {
+      "all": 16922,
+      "kinopoisk": 5844,
+      "imdb": 6109,
+      "tmdb": 0,
+      "world-art": 3859,
+      "shikimori": 3050,
+      "none": 926
+    }
+  },
+  {
+    "date": 1629072000,
+    "movies": {
+      "all": 19967,
+      "kinopoisk": 15463,
+      "imdb": 15012,
+      "tmdb": 0,
+      "world-art": 1602,
+      "shikimori": 1221,
+      "none": 149
+    },
+    "tv": {
+      "all": 16940,
+      "kinopoisk": 5847,
+      "imdb": 6114,
+      "tmdb": 0,
+      "world-art": 3862,
+      "shikimori": 3052,
+      "none": 928
+    }
+  },
+  {
+    "date": 1629158400,
+    "movies": {
+      "all": 19977,
+      "kinopoisk": 15467,
+      "imdb": 15016,
+      "tmdb": 0,
+      "world-art": 1603,
+      "shikimori": 1224,
+      "none": 150
+    },
+    "tv": {
+      "all": 16955,
+      "kinopoisk": 5848,
+      "imdb": 6117,
+      "tmdb": 0,
+      "world-art": 3863,
+      "shikimori": 3052,
+      "none": 932
+    }
+  },
+  {
+    "date": 1629244800,
+    "movies": {
+      "all": 19991,
+      "kinopoisk": 15473,
+      "imdb": 15021,
+      "tmdb": 0,
+      "world-art": 1606,
+      "shikimori": 1225,
+      "none": 150
+    },
+    "tv": {
+      "all": 16965,
+      "kinopoisk": 5849,
+      "imdb": 6118,
+      "tmdb": 0,
+      "world-art": 3871,
+      "shikimori": 3059,
+      "none": 932
+    }
+  },
+  {
+    "date": 1629417600,
+    "movies": {
+      "all": 20003,
+      "kinopoisk": 15478,
+      "imdb": 15026,
+      "tmdb": 0,
+      "world-art": 1610,
+      "shikimori": 1228,
+      "none": 150
+    },
+    "tv": {
+      "all": 17010,
+      "kinopoisk": 5852,
+      "imdb": 6122,
+      "tmdb": 0,
+      "world-art": 3879,
+      "shikimori": 3063,
+      "none": 950
+    }
+  },
+  {
+    "date": 1629504000,
+    "movies": {
+      "all": 20009,
+      "kinopoisk": 15479,
+      "imdb": 15027,
+      "tmdb": 0,
+      "world-art": 1612,
+      "shikimori": 1228,
+      "none": 150
+    },
+    "tv": {
+      "all": 17044,
+      "kinopoisk": 5853,
+      "imdb": 6125,
+      "tmdb": 0,
+      "world-art": 3885,
+      "shikimori": 3064,
+      "none": 953
+    }
+  },
+  {
+    "date": 1629676800,
+    "movies": {
+      "all": 20029,
+      "kinopoisk": 15486,
+      "imdb": 15036,
+      "tmdb": 0,
+      "world-art": 1615,
+      "shikimori": 1229,
+      "none": 151
+    },
+    "tv": {
+      "all": 17074,
+      "kinopoisk": 5858,
+      "imdb": 6131,
+      "tmdb": 0,
+      "world-art": 3890,
+      "shikimori": 3067,
+      "none": 958
+    }
+  },
+  {
+    "date": 1629763200,
+    "movies": {
+      "all": 20034,
+      "kinopoisk": 15487,
+      "imdb": 15037,
+      "tmdb": 0,
+      "world-art": 1615,
+      "shikimori": 1229,
+      "none": 152
+    },
+    "tv": {
+      "all": 17083,
+      "kinopoisk": 5859,
+      "imdb": 6133,
+      "tmdb": 0,
+      "world-art": 3893,
+      "shikimori": 3068,
+      "none": 962
+    }
+  },
+  {
+    "date": 1629849600,
+    "movies": {
+      "all": 20040,
+      "kinopoisk": 15488,
+      "imdb": 15038,
+      "tmdb": 0,
+      "world-art": 1615,
+      "shikimori": 1229,
+      "none": 152
+    },
+    "tv": {
+      "all": 17093,
+      "kinopoisk": 5859,
+      "imdb": 6133,
+      "tmdb": 0,
+      "world-art": 3894,
+      "shikimori": 3068,
+      "none": 964
+    }
+  },
+  {
+    "date": 1630022400,
+    "movies": {
+      "all": 20073,
+      "kinopoisk": 15501,
+      "imdb": 15053,
+      "tmdb": 0,
+      "world-art": 1616,
+      "shikimori": 1230,
+      "none": 154
+    },
+    "tv": {
+      "all": 17113,
+      "kinopoisk": 5862,
+      "imdb": 6137,
+      "tmdb": 0,
+      "world-art": 3894,
+      "shikimori": 3068,
+      "none": 972
+    }
+  },
+  {
+    "date": 1630108800,
+    "movies": {
+      "all": 20085,
+      "kinopoisk": 15509,
+      "imdb": 15061,
+      "tmdb": 0,
+      "world-art": 1616,
+      "shikimori": 1230,
+      "none": 155
+    },
+    "tv": {
+      "all": 17117,
+      "kinopoisk": 5863,
+      "imdb": 6138,
+      "tmdb": 0,
+      "world-art": 3895,
+      "shikimori": 3069,
+      "none": 974
+    }
+  },
+  {
+    "date": 1630195200,
+    "movies": {
+      "all": 20085,
+      "kinopoisk": 15510,
+      "imdb": 15061,
+      "tmdb": 0,
+      "world-art": 1616,
+      "shikimori": 1230,
+      "none": 155
+    },
+    "tv": {
+      "all": 17124,
+      "kinopoisk": 5865,
+      "imdb": 6140,
+      "tmdb": 0,
+      "world-art": 3895,
+      "shikimori": 3069,
+      "none": 978
+    }
+  },
+  {
+    "date": 1630281600,
+    "movies": {
+      "all": 20092,
+      "kinopoisk": 15515,
+      "imdb": 15067,
+      "tmdb": 0,
+      "world-art": 1617,
+      "shikimori": 1231,
+      "none": 155
+    },
+    "tv": {
+      "all": 17129,
+      "kinopoisk": 5865,
+      "imdb": 6140,
+      "tmdb": 0,
+      "world-art": 3895,
+      "shikimori": 3069,
+      "none": 980
+    }
+  },
+  {
+    "date": 1630368000,
+    "movies": {
+      "all": 19990,
+      "kinopoisk": 15438,
+      "imdb": 14990,
+      "tmdb": 0,
+      "world-art": 1617,
+      "shikimori": 1231,
+      "none": 155
+    },
+    "tv": {
+      "all": 17131,
+      "kinopoisk": 5863,
+      "imdb": 6140,
+      "tmdb": 0,
+      "world-art": 3895,
+      "shikimori": 3070,
+      "none": 984
+    }
+  },
+  {
+    "date": 1630454400,
+    "movies": {
+      "all": 20100,
+      "kinopoisk": 15518,
+      "imdb": 15071,
+      "tmdb": 0,
+      "world-art": 1618,
+      "shikimori": 1232,
+      "none": 155
+    },
+    "tv": {
+      "all": 17159,
+      "kinopoisk": 5869,
+      "imdb": 6147,
+      "tmdb": 0,
+      "world-art": 3896,
+      "shikimori": 3070,
+      "none": 990
+    }
+  },
+  {
+    "date": 1630713600,
+    "movies": {
+      "all": 20112,
+      "kinopoisk": 15524,
+      "imdb": 15077,
+      "tmdb": 0,
+      "world-art": 1620,
+      "shikimori": 1233,
+      "none": 155
+    },
+    "tv": {
+      "all": 17206,
+      "kinopoisk": 5882,
+      "imdb": 6169,
+      "tmdb": 0,
+      "world-art": 3902,
+      "shikimori": 3075,
+      "none": 985
+    }
+  },
+  {
+    "date": 1630800000,
+    "movies": {
+      "all": 20114,
+      "kinopoisk": 15524,
+      "imdb": 15077,
+      "tmdb": 0,
+      "world-art": 1620,
+      "shikimori": 1233,
+      "none": 155
+    },
+    "tv": {
+      "all": 17229,
+      "kinopoisk": 5884,
+      "imdb": 6173,
+      "tmdb": 0,
+      "world-art": 3903,
+      "shikimori": 3075,
+      "none": 995
+    }
+  },
+  {
+    "date": 1630886400,
+    "movies": {
+      "all": 20124,
+      "kinopoisk": 15531,
+      "imdb": 15084,
+      "tmdb": 0,
+      "world-art": 1620,
+      "shikimori": 1233,
+      "none": 156
+    },
+    "tv": {
+      "all": 17246,
+      "kinopoisk": 5887,
+      "imdb": 6176,
+      "tmdb": 0,
+      "world-art": 3904,
+      "shikimori": 3077,
+      "none": 998
+    }
+  },
+  {
+    "date": 1630972800,
+    "movies": {
+      "all": 20129,
+      "kinopoisk": 15533,
+      "imdb": 15086,
+      "tmdb": 0,
+      "world-art": 1621,
+      "shikimori": 1234,
+      "none": 156
+    },
+    "tv": {
+      "all": 17256,
+      "kinopoisk": 5888,
+      "imdb": 6178,
+      "tmdb": 0,
+      "world-art": 3904,
+      "shikimori": 3077,
+      "none": 1001
+    }
+  },
+  {
+    "date": 1631059200,
+    "movies": {
+      "all": 20136,
+      "kinopoisk": 15540,
+      "imdb": 15093,
+      "tmdb": 0,
+      "world-art": 1621,
+      "shikimori": 1234,
+      "none": 156
+    },
+    "tv": {
+      "all": 17265,
+      "kinopoisk": 5889,
+      "imdb": 6182,
+      "tmdb": 0,
+      "world-art": 3904,
+      "shikimori": 3077,
+      "none": 1002
+    }
+  },
+  {
+    "date": 1631145600,
+    "movies": {
+      "all": 20101,
+      "kinopoisk": 15515,
+      "imdb": 15069,
+      "tmdb": 0,
+      "world-art": 1621,
+      "shikimori": 1234,
+      "none": 156
+    },
+    "tv": {
+      "all": 17226,
+      "kinopoisk": 5884,
+      "imdb": 6179,
+      "tmdb": 0,
+      "world-art": 3903,
+      "shikimori": 3077,
+      "none": 1009
+    }
+  },
+  {
+    "date": 1631232000,
+    "movies": {
+      "all": 20152,
+      "kinopoisk": 15549,
+      "imdb": 15101,
+      "tmdb": 0,
+      "world-art": 1621,
+      "shikimori": 1234,
+      "none": 156
+    },
+    "tv": {
+      "all": 17290,
+      "kinopoisk": 5892,
+      "imdb": 6188,
+      "tmdb": 0,
+      "world-art": 3907,
+      "shikimori": 3078,
+      "none": 1010
+    }
+  },
+  {
+    "date": 1631318400,
+    "movies": {
+      "all": 20025,
+      "kinopoisk": 15472,
+      "imdb": 15024,
+      "tmdb": 0,
+      "world-art": 1619,
+      "shikimori": 1233,
+      "none": 155
+    },
+    "tv": {
+      "all": 17217,
+      "kinopoisk": 5871,
+      "imdb": 6172,
+      "tmdb": 0,
+      "world-art": 3902,
+      "shikimori": 3075,
+      "none": 1001
+    }
+  },
+  {
+    "date": 1631404800,
+    "movies": {
+      "all": 20170,
+      "kinopoisk": 15560,
+      "imdb": 15111,
+      "tmdb": 0,
+      "world-art": 1627,
+      "shikimori": 1238,
+      "none": 156
+    },
+    "tv": {
+      "all": 17310,
+      "kinopoisk": 5893,
+      "imdb": 6196,
+      "tmdb": 0,
+      "world-art": 3909,
+      "shikimori": 3079,
+      "none": 1010
+    }
+  },
+  {
+    "date": 1631491200,
+    "movies": {
+      "all": 20090,
+      "kinopoisk": 15535,
+      "imdb": 15087,
+      "tmdb": 0,
+      "world-art": 1617,
+      "shikimori": 1233,
+      "none": 156
+    },
+    "tv": {
+      "all": 17290,
+      "kinopoisk": 5881,
+      "imdb": 6185,
+      "tmdb": 0,
+      "world-art": 3908,
+      "shikimori": 3079,
+      "none": 1008
+    }
+  },
+  {
+    "date": 1631664000,
+    "movies": {
+      "all": 20193,
+      "kinopoisk": 15569,
+      "imdb": 15118,
+      "tmdb": 0,
+      "world-art": 1631,
+      "shikimori": 1239,
+      "none": 156
+    },
+    "tv": {
+      "all": 17335,
+      "kinopoisk": 5899,
+      "imdb": 6202,
+      "tmdb": 0,
+      "world-art": 3911,
+      "shikimori": 3081,
+      "none": 1009
+    }
+  },
+  {
+    "date": 1631836800,
+    "movies": {
+      "all": 20214,
+      "kinopoisk": 15581,
+      "imdb": 15130,
+      "tmdb": 0,
+      "world-art": 1632,
+      "shikimori": 1241,
+      "none": 156
+    },
+    "tv": {
+      "all": 17358,
+      "kinopoisk": 5902,
+      "imdb": 6208,
+      "tmdb": 0,
+      "world-art": 3911,
+      "shikimori": 3081,
+      "none": 1016
+    }
+  },
+  {
+    "date": 1631923200,
+    "movies": {
+      "all": 20120,
+      "kinopoisk": 15517,
+      "imdb": 15064,
+      "tmdb": 0,
+      "world-art": 1629,
+      "shikimori": 1236,
+      "none": 156
+    },
+    "tv": {
+      "all": 17252,
+      "kinopoisk": 5870,
+      "imdb": 6180,
+      "tmdb": 0,
+      "world-art": 3893,
+      "shikimori": 3067,
+      "none": 1016
+    }
+  },
+  {
+    "date": 1632009600,
+    "movies": {
+      "all": 20235,
+      "kinopoisk": 15593,
+      "imdb": 15141,
+      "tmdb": 0,
+      "world-art": 1639,
+      "shikimori": 1243,
+      "none": 156
+    },
+    "tv": {
+      "all": 17394,
+      "kinopoisk": 5908,
+      "imdb": 6216,
+      "tmdb": 0,
+      "world-art": 3911,
+      "shikimori": 3081,
+      "none": 1023
+    }
+  },
+  {
+    "date": 1632614400,
+    "movies": {
+      "all": 20149,
+      "kinopoisk": 15470,
+      "imdb": 15018,
+      "tmdb": 0,
+      "world-art": 1630,
+      "shikimori": 1233,
+      "none": 159
+    },
+    "tv": {
+      "all": 17280,
+      "kinopoisk": 5866,
+      "imdb": 6191,
+      "tmdb": 0,
+      "world-art": 3889,
+      "shikimori": 3062,
+      "none": 1027
+    }
+  },
+  {
+    "date": 1632787200,
+    "movies": {
+      "all": 20339,
+      "kinopoisk": 15642,
+      "imdb": 15190,
+      "tmdb": 0,
+      "world-art": 1646,
+      "shikimori": 1245,
+      "none": 159
+    },
+    "tv": {
+      "all": 17506,
+      "kinopoisk": 5919,
+      "imdb": 6243,
+      "tmdb": 0,
+      "world-art": 3924,
+      "shikimori": 3087,
+      "none": 1033
+    }
+  },
+  {
+    "date": 1632960000,
+    "movies": {
+      "all": 20358,
+      "kinopoisk": 15655,
+      "imdb": 15203,
+      "tmdb": 0,
+      "world-art": 1646,
+      "shikimori": 1245,
+      "none": 159
+    },
+    "tv": {
+      "all": 17530,
+      "kinopoisk": 5924,
+      "imdb": 6249,
+      "tmdb": 0,
+      "world-art": 3926,
+      "shikimori": 3088,
+      "none": 1035
+    }
+  },
+  {
+    "date": 1633046400,
+    "movies": {
+      "all": 20365,
+      "kinopoisk": 15659,
+      "imdb": 15207,
+      "tmdb": 0,
+      "world-art": 1647,
+      "shikimori": 1246,
+      "none": 159
+    },
+    "tv": {
+      "all": 17544,
+      "kinopoisk": 5927,
+      "imdb": 6254,
+      "tmdb": 0,
+      "world-art": 3927,
+      "shikimori": 3089,
+      "none": 1040
+    }
+  },
+  {
+    "date": 1633132800,
+    "movies": {
+      "all": 20369,
+      "kinopoisk": 15660,
+      "imdb": 15208,
+      "tmdb": 0,
+      "world-art": 1648,
+      "shikimori": 1246,
+      "none": 159
+    },
+    "tv": {
+      "all": 17560,
+      "kinopoisk": 5930,
+      "imdb": 6258,
+      "tmdb": 0,
+      "world-art": 3932,
+      "shikimori": 3093,
+      "none": 1042
+    }
+  },
+  {
+    "date": 1633824000,
+    "movies": {
+      "all": 20412,
+      "kinopoisk": 15677,
+      "imdb": 15226,
+      "tmdb": 0,
+      "world-art": 1649,
+      "shikimori": 1248,
+      "none": 159
+    },
+    "tv": {
+      "all": 17774,
+      "kinopoisk": 5944,
+      "imdb": 6285,
+      "tmdb": 0,
+      "world-art": 3961,
+      "shikimori": 3110,
+      "none": 1059
+    }
+  },
+  {
+    "date": 1633996800,
+    "movies": {
+      "all": 20428,
+      "kinopoisk": 15680,
+      "imdb": 15229,
+      "tmdb": 0,
+      "world-art": 1649,
+      "shikimori": 1248,
+      "none": 161
+    },
+    "tv": {
+      "all": 17820,
+      "kinopoisk": 5947,
+      "imdb": 6289,
+      "tmdb": 0,
+      "world-art": 3964,
+      "shikimori": 3114,
+      "none": 1067
+    }
+  },
+  {
+    "date": 1634515200,
+    "movies": {
+      "all": 20321,
+      "kinopoisk": 15506,
+      "imdb": 15054,
+      "tmdb": 0,
+      "world-art": 1628,
+      "shikimori": 1229,
+      "none": 162
+    },
+    "tv": {
+      "all": 17727,
+      "kinopoisk": 5895,
+      "imdb": 6236,
+      "tmdb": 0,
+      "world-art": 3917,
+      "shikimori": 3068,
+      "none": 1082
+    }
+  },
+  {
+    "date": 1639094400,
+    "movies": {
+      "all": 20525,
+      "kinopoisk": 15072,
+      "imdb": 14613,
+      "tmdb": 0,
+      "world-art": 1564,
+      "shikimori": 1185,
+      "none": 164
+    },
+    "tv": {
+      "all": 17323,
+      "kinopoisk": 5608,
+      "imdb": 5939,
+      "tmdb": 0,
+      "world-art": 3673,
+      "shikimori": 2864,
+      "none": 1090
+    }
+  },
+  {
+    "date": 1643673600,
+    "movies": {
+      "all": 19909,
+      "kinopoisk": 14183,
+      "imdb": 13799,
+      "tmdb": 0,
+      "world-art": 1420,
+      "shikimori": 1073,
+      "none": 183
+    },
+    "tv": {
+      "all": 17739,
+      "kinopoisk": 5533,
+      "imdb": 5864,
+      "tmdb": 0,
+      "world-art": 3547,
+      "shikimori": 2826,
+      "none": 1182
+    }
+  },
+  {
+    "date": 1643846400,
+    "movies": {
+      "all": 19820,
+      "kinopoisk": 14150,
+      "imdb": 13775,
+      "tmdb": 0,
+      "world-art": 1421,
+      "shikimori": 1080,
+      "none": 183
+    },
+    "tv": {
+      "all": 17628,
+      "kinopoisk": 5530,
+      "imdb": 5863,
+      "tmdb": 0,
+      "world-art": 3545,
+      "shikimori": 2827,
+      "none": 1171
+    }
+  },
+  {
+    "date": 1644192000,
+    "movies": {
+      "all": 19696,
+      "kinopoisk": 14032,
+      "imdb": 13676,
+      "tmdb": 0,
+      "world-art": 1428,
+      "shikimori": 1085,
+      "none": 184
+    },
+    "tv": {
+      "all": 17752,
+      "kinopoisk": 5540,
+      "imdb": 5864,
+      "tmdb": 0,
+      "world-art": 3557,
+      "shikimori": 2832,
+      "none": 1177
+    }
+  },
+  {
+    "date": 1644278400,
+    "movies": {
+      "all": 19633,
+      "kinopoisk": 13995,
+      "imdb": 13638,
+      "tmdb": 0,
+      "world-art": 1420,
+      "shikimori": 1080,
+      "none": 184
+    },
+    "tv": {
+      "all": 17615,
+      "kinopoisk": 5521,
+      "imdb": 5841,
+      "tmdb": 0,
+      "world-art": 3548,
+      "shikimori": 2827,
+      "none": 1163
+    }
+  },
+  {
+    "date": 1644364800,
+    "movies": {
+      "all": 19929,
+      "kinopoisk": 14702,
+      "imdb": 14263,
+      "tmdb": 0,
+      "world-art": 1520,
+      "shikimori": 1149,
+      "none": 172
+    },
+    "tv": {
+      "all": 17619,
+      "kinopoisk": 5735,
+      "imdb": 6078,
+      "tmdb": 0,
+      "world-art": 3696,
+      "shikimori": 2906,
+      "none": 1178
+    }
+  },
+  {
+    "date": 1644710400,
+    "movies": {
+      "all": 20132,
+      "kinopoisk": 14953,
+      "imdb": 14492,
+      "tmdb": 0,
+      "world-art": 1535,
+      "shikimori": 1169,
+      "none": 175
+    },
+    "tv": {
+      "all": 17516,
+      "kinopoisk": 5800,
+      "imdb": 6159,
+      "tmdb": 0,
+      "world-art": 3681,
+      "shikimori": 2890,
+      "none": 1178
+    }
+  },
+  {
+    "date": 1645056000,
+    "movies": {
+      "all": 20097,
+      "kinopoisk": 14903,
+      "imdb": 14447,
+      "tmdb": 0,
+      "world-art": 1537,
+      "shikimori": 1174,
+      "none": 176
+    },
+    "tv": {
+      "all": 17451,
+      "kinopoisk": 5825,
+      "imdb": 6182,
+      "tmdb": 0,
+      "world-art": 3691,
+      "shikimori": 2895,
+      "none": 1167
+    }
+  },
+  {
+    "date": 1645228800,
+    "movies": {
+      "all": 19952,
+      "kinopoisk": 14795,
+      "imdb": 14347,
+      "tmdb": 0,
+      "world-art": 1532,
+      "shikimori": 1169,
+      "none": 178
+    },
+    "tv": {
+      "all": 17296,
+      "kinopoisk": 5806,
+      "imdb": 6159,
+      "tmdb": 0,
+      "world-art": 3684,
+      "shikimori": 2893,
+      "none": 1160
+    }
+  },
+  {
+    "date": 1645488000,
+    "movies": {
+      "all": 19816,
+      "kinopoisk": 14656,
+      "imdb": 14231,
+      "tmdb": 0,
+      "world-art": 1526,
+      "shikimori": 1167,
+      "none": 175
+    },
+    "tv": {
+      "all": 17232,
+      "kinopoisk": 5762,
+      "imdb": 6113,
+      "tmdb": 0,
+      "world-art": 3658,
+      "shikimori": 2876,
+      "none": 1150
+    }
+  },
+  {
+    "date": 1645747200,
+    "movies": {
+      "all": 19882,
+      "kinopoisk": 14651,
+      "imdb": 14183,
+      "tmdb": 0,
+      "world-art": 1450,
+      "shikimori": 1111,
+      "none": 170
+    },
+    "tv": {
+      "all": 17366,
+      "kinopoisk": 5795,
+      "imdb": 6140,
+      "tmdb": 0,
+      "world-art": 3613,
+      "shikimori": 2839,
+      "none": 1117
+    }
+  },
+  {
+    "date": 1645920000,
+    "movies": {
+      "all": 19876,
+      "kinopoisk": 14650,
+      "imdb": 14182,
+      "tmdb": 0,
+      "world-art": 1449,
+      "shikimori": 1110,
+      "none": 170
+    },
+    "tv": {
+      "all": 17272,
+      "kinopoisk": 5785,
+      "imdb": 6125,
+      "tmdb": 0,
+      "world-art": 3612,
+      "shikimori": 2838,
+      "none": 1106
+    }
+  },
+  {
+    "date": 1646265600,
+    "movies": {
+      "all": 20146,
+      "kinopoisk": 15506,
+      "imdb": 15065,
+      "tmdb": 0,
+      "world-art": 1561,
+      "shikimori": 1183,
+      "none": 188
+    },
+    "tv": {
+      "all": 18002,
+      "kinopoisk": 6123,
+      "imdb": 6478,
+      "tmdb": 0,
+      "world-art": 3854,
+      "shikimori": 3036,
+      "none": 1091
+    }
+  },
+  {
+    "date": 1646352000,
+    "movies": {
+      "all": 20060,
+      "kinopoisk": 15450,
+      "imdb": 15010,
+      "tmdb": 0,
+      "world-art": 1542,
+      "shikimori": 1166,
+      "none": 188
+    },
+    "tv": {
+      "all": 17788,
+      "kinopoisk": 6075,
+      "imdb": 6427,
+      "tmdb": 0,
+      "world-art": 3824,
+      "shikimori": 3012,
+      "none": 1081
+    }
+  },
+  {
+    "date": 1646438400,
+    "movies": {
+      "all": 20060,
+      "kinopoisk": 15450,
+      "imdb": 15010,
+      "tmdb": 0,
+      "world-art": 1542,
+      "shikimori": 1166,
+      "none": 188
+    },
+    "tv": {
+      "all": 17788,
+      "kinopoisk": 6075,
+      "imdb": 6427,
+      "tmdb": 0,
+      "world-art": 3824,
+      "shikimori": 3012,
+      "none": 1081
+    }
+  },
+  {
+    "date": 1646524800,
+    "movies": {
+      "all": 19862,
+      "kinopoisk": 15304,
+      "imdb": 14889,
+      "tmdb": 0,
+      "world-art": 1533,
+      "shikimori": 1158,
+      "none": 189
+    },
+    "tv": {
+      "all": 17786,
+      "kinopoisk": 6092,
+      "imdb": 6439,
+      "tmdb": 0,
+      "world-art": 3814,
+      "shikimori": 3009,
+      "none": 1065
+    }
+  },
+  {
+    "date": 1646611200,
+    "movies": {
+      "all": 19916,
+      "kinopoisk": 15317,
+      "imdb": 14900,
+      "tmdb": 0,
+      "world-art": 1537,
+      "shikimori": 1163,
+      "none": 192
+    },
+    "tv": {
+      "all": 17632,
+      "kinopoisk": 6081,
+      "imdb": 6416,
+      "tmdb": 0,
+      "world-art": 3789,
+      "shikimori": 2991,
+      "none": 1044
+    }
+  },
+  {
+    "date": 1646697600,
+    "movies": {
+      "all": 19820,
+      "kinopoisk": 15231,
+      "imdb": 14828,
+      "tmdb": 0,
+      "world-art": 1520,
+      "shikimori": 1147,
+      "none": 189
+    },
+    "tv": {
+      "all": 17528,
+      "kinopoisk": 6059,
+      "imdb": 6387,
+      "tmdb": 0,
+      "world-art": 3771,
+      "shikimori": 2976,
+      "none": 1034
+    }
+  },
+  {
+    "date": 1646784000,
+    "movies": {
+      "all": 19957,
+      "kinopoisk": 15384,
+      "imdb": 14940,
+      "tmdb": 0,
+      "world-art": 1515,
+      "shikimori": 1152,
+      "none": 186
+    },
+    "tv": {
+      "all": 17491,
+      "kinopoisk": 6069,
+      "imdb": 6393,
+      "tmdb": 0,
+      "world-art": 3765,
+      "shikimori": 2972,
+      "none": 1029
+    }
+  },
+  {
+    "date": 1646870400,
+    "movies": {
+      "all": 18922,
+      "kinopoisk": 14057,
+      "imdb": 13571,
+      "tmdb": 0,
+      "world-art": 1666,
+      "shikimori": 1267,
+      "none": 145
+    },
+    "tv": {
+      "all": 19026,
+      "kinopoisk": 6271,
+      "imdb": 6605,
+      "tmdb": 0,
+      "world-art": 4037,
+      "shikimori": 3176,
+      "none": 966
+    }
+  },
+  {
+    "date": 1647043200,
+    "movies": {
+      "all": 18789,
+      "kinopoisk": 13939,
+      "imdb": 13483,
+      "tmdb": 0,
+      "world-art": 1661,
+      "shikimori": 1264,
+      "none": 146
+    },
+    "tv": {
+      "all": 18959,
+      "kinopoisk": 6259,
+      "imdb": 6589,
+      "tmdb": 0,
+      "world-art": 4034,
+      "shikimori": 3175,
+      "none": 964
+    }
+  },
+  {
+    "date": 1647129600,
+    "movies": {
+      "all": 18793,
+      "kinopoisk": 13932,
+      "imdb": 13474,
+      "tmdb": 0,
+      "world-art": 1662,
+      "shikimori": 1264,
+      "none": 142
+    },
+    "tv": {
+      "all": 18955,
+      "kinopoisk": 6269,
+      "imdb": 6603,
+      "tmdb": 0,
+      "world-art": 4033,
+      "shikimori": 3174,
+      "none": 951
+    }
+  },
+  {
+    "date": 1647216000,
+    "movies": {
+      "all": 18804,
+      "kinopoisk": 13953,
+      "imdb": 13480,
+      "tmdb": 0,
+      "world-art": 1644,
+      "shikimori": 1249,
+      "none": 143
+    },
+    "tv": {
+      "all": 18744,
+      "kinopoisk": 6227,
+      "imdb": 6548,
+      "tmdb": 0,
+      "world-art": 4006,
+      "shikimori": 3155,
+      "none": 943
+    }
+  },
+  {
+    "date": 1647302400,
+    "movies": {
+      "all": 21268,
+      "kinopoisk": 16089,
+      "imdb": 15615,
+      "tmdb": 0,
+      "world-art": 1671,
+      "shikimori": 1272,
+      "none": 184
+    },
+    "tv": {
+      "all": 19762,
+      "kinopoisk": 6555,
+      "imdb": 6869,
+      "tmdb": 0,
+      "world-art": 4071,
+      "shikimori": 3191,
+      "none": 932
+    }
+  },
+  {
+    "date": 1647388800,
+    "movies": {
+      "all": 21276,
+      "kinopoisk": 16092,
+      "imdb": 15617,
+      "tmdb": 0,
+      "world-art": 1673,
+      "shikimori": 1273,
+      "none": 184
+    },
+    "tv": {
+      "all": 19769,
+      "kinopoisk": 6555,
+      "imdb": 6870,
+      "tmdb": 0,
+      "world-art": 4071,
+      "shikimori": 3191,
+      "none": 933
+    }
+  },
+  {
+    "date": 1647561600,
+    "movies": {
+      "all": 21285,
+      "kinopoisk": 16094,
+      "imdb": 15619,
+      "tmdb": 0,
+      "world-art": 1674,
+      "shikimori": 1274,
+      "none": 186
+    },
+    "tv": {
+      "all": 19788,
+      "kinopoisk": 6560,
+      "imdb": 6874,
+      "tmdb": 0,
+      "world-art": 4074,
+      "shikimori": 3193,
+      "none": 938
+    }
+  },
+  {
+    "date": 1647648000,
+    "movies": {
+      "all": 21290,
+      "kinopoisk": 16097,
+      "imdb": 15622,
+      "tmdb": 0,
+      "world-art": 1674,
+      "shikimori": 1274,
+      "none": 187
+    },
+    "tv": {
+      "all": 19796,
+      "kinopoisk": 6567,
+      "imdb": 6883,
+      "tmdb": 0,
+      "world-art": 4074,
+      "shikimori": 3193,
+      "none": 922
+    }
+  },
+  {
+    "date": 1647734400,
+    "movies": {
+      "all": 21306,
+      "kinopoisk": 16102,
+      "imdb": 15625,
+      "tmdb": 0,
+      "world-art": 1680,
+      "shikimori": 1277,
+      "none": 189
+    },
+    "tv": {
+      "all": 19824,
+      "kinopoisk": 6592,
+      "imdb": 6904,
+      "tmdb": 0,
+      "world-art": 4094,
+      "shikimori": 3204,
+      "none": 905
+    }
+  },
+  {
+    "date": 1647820800,
+    "movies": {
+      "all": 21335,
+      "kinopoisk": 16114,
+      "imdb": 15638,
+      "tmdb": 0,
+      "world-art": 1692,
+      "shikimori": 1285,
+      "none": 189
+    },
+    "tv": {
+      "all": 19862,
+      "kinopoisk": 6605,
+      "imdb": 6921,
+      "tmdb": 0,
+      "world-art": 4113,
+      "shikimori": 3214,
+      "none": 904
+    }
+  },
+  {
+    "date": 1647993600,
+    "movies": {
+      "all": 21390,
+      "kinopoisk": 16147,
+      "imdb": 15679,
+      "tmdb": 0,
+      "world-art": 1738,
+      "shikimori": 1324,
+      "none": 189
+    },
+    "tv": {
+      "all": 19923,
+      "kinopoisk": 6634,
+      "imdb": 6955,
+      "tmdb": 0,
+      "world-art": 4147,
+      "shikimori": 3238,
+      "none": 899
+    }
+  },
+  {
+    "date": 1648080000,
+    "movies": {
+      "all": 21415,
+      "kinopoisk": 16161,
+      "imdb": 15697,
+      "tmdb": 0,
+      "world-art": 1752,
+      "shikimori": 1339,
+      "none": 192
+    },
+    "tv": {
+      "all": 19950,
+      "kinopoisk": 6654,
+      "imdb": 6972,
+      "tmdb": 0,
+      "world-art": 4162,
+      "shikimori": 3243,
+      "none": 894
+    }
+  },
+  {
+    "date": 1648252800,
+    "movies": {
+      "all": 21453,
+      "kinopoisk": 16184,
+      "imdb": 15726,
+      "tmdb": 0,
+      "world-art": 1778,
+      "shikimori": 1366,
+      "none": 192
+    },
+    "tv": {
+      "all": 20016,
+      "kinopoisk": 6685,
+      "imdb": 7009,
+      "tmdb": 0,
+      "world-art": 4213,
+      "shikimori": 3272,
+      "none": 893
+    }
+  },
+  {
+    "date": 1648339200,
+    "movies": {
+      "all": 21487,
+      "kinopoisk": 16198,
+      "imdb": 15748,
+      "tmdb": 0,
+      "world-art": 1802,
+      "shikimori": 1388,
+      "none": 195
+    },
+    "tv": {
+      "all": 20066,
+      "kinopoisk": 6720,
+      "imdb": 7047,
+      "tmdb": 0,
+      "world-art": 4246,
+      "shikimori": 3294,
+      "none": 874
+    }
+  },
+  {
+    "date": 1648771200,
+    "movies": {
+      "all": 21577,
+      "kinopoisk": 16248,
+      "imdb": 15803,
+      "tmdb": 0,
+      "world-art": 1845,
+      "shikimori": 1427,
+      "none": 196
+    },
+    "tv": {
+      "all": 20160,
+      "kinopoisk": 6781,
+      "imdb": 7098,
+      "tmdb": 0,
+      "world-art": 4279,
+      "shikimori": 3312,
+      "none": 846
+    }
+  },
+  {
+    "date": 1648857600,
+    "movies": {
+      "all": 21578,
+      "kinopoisk": 16248,
+      "imdb": 15803,
+      "tmdb": 0,
+      "world-art": 1845,
+      "shikimori": 1427,
+      "none": 196
+    },
+    "tv": {
+      "all": 20190,
+      "kinopoisk": 6804,
+      "imdb": 7114,
+      "tmdb": 0,
+      "world-art": 4284,
+      "shikimori": 3317,
+      "none": 837
+    }
+  },
+  {
+    "date": 1648944000,
+    "movies": {
+      "all": 21582,
+      "kinopoisk": 16249,
+      "imdb": 15804,
+      "tmdb": 0,
+      "world-art": 1845,
+      "shikimori": 1427,
+      "none": 196
+    },
+    "tv": {
+      "all": 20223,
+      "kinopoisk": 6810,
+      "imdb": 7119,
+      "tmdb": 0,
+      "world-art": 4289,
+      "shikimori": 3323,
+      "none": 841
+    }
+  },
+  {
+    "date": 1649030400,
+    "movies": {
+      "all": 21591,
+      "kinopoisk": 16256,
+      "imdb": 15810,
+      "tmdb": 0,
+      "world-art": 1845,
+      "shikimori": 1427,
+      "none": 196
+    },
+    "tv": {
+      "all": 20229,
+      "kinopoisk": 6811,
+      "imdb": 7120,
+      "tmdb": 0,
+      "world-art": 4290,
+      "shikimori": 3324,
+      "none": 842
+    }
+  },
+  {
+    "date": 1649116800,
+    "movies": {
+      "all": 21594,
+      "kinopoisk": 16259,
+      "imdb": 15813,
+      "tmdb": 0,
+      "world-art": 1846,
+      "shikimori": 1429,
+      "none": 196
+    },
+    "tv": {
+      "all": 20247,
+      "kinopoisk": 6815,
+      "imdb": 7124,
+      "tmdb": 0,
+      "world-art": 4291,
+      "shikimori": 3325,
+      "none": 842
+    }
+  },
+  {
+    "date": 1649203200,
+    "movies": {
+      "all": 21602,
+      "kinopoisk": 16262,
+      "imdb": 15817,
+      "tmdb": 0,
+      "world-art": 1848,
+      "shikimori": 1431,
+      "none": 196
+    },
+    "tv": {
+      "all": 20276,
+      "kinopoisk": 6823,
+      "imdb": 7133,
+      "tmdb": 0,
+      "world-art": 4297,
+      "shikimori": 3331,
+      "none": 845
+    }
+  },
+  {
+    "date": 1649289600,
+    "movies": {
+      "all": 21605,
+      "kinopoisk": 16263,
+      "imdb": 15818,
+      "tmdb": 0,
+      "world-art": 1848,
+      "shikimori": 1431,
+      "none": 196
+    },
+    "tv": {
+      "all": 20306,
+      "kinopoisk": 6827,
+      "imdb": 7136,
+      "tmdb": 0,
+      "world-art": 4301,
+      "shikimori": 3335,
+      "none": 847
+    }
+  },
+  {
+    "date": 1649376000,
+    "movies": {
+      "all": 21607,
+      "kinopoisk": 16265,
+      "imdb": 15820,
+      "tmdb": 0,
+      "world-art": 1848,
+      "shikimori": 1431,
+      "none": 196
+    },
+    "tv": {
+      "all": 20338,
+      "kinopoisk": 6830,
+      "imdb": 7139,
+      "tmdb": 0,
+      "world-art": 4305,
+      "shikimori": 3338,
+      "none": 849
+    }
+  },
+  {
+    "date": 1649462400,
+    "movies": {
+      "all": 21613,
+      "kinopoisk": 16269,
+      "imdb": 15824,
+      "tmdb": 0,
+      "world-art": 1848,
+      "shikimori": 1431,
+      "none": 197
+    },
+    "tv": {
+      "all": 20384,
+      "kinopoisk": 6836,
+      "imdb": 7145,
+      "tmdb": 0,
+      "world-art": 4311,
+      "shikimori": 3342,
+      "none": 855
+    }
+  },
+  {
+    "date": 1649548800,
+    "movies": {
+      "all": 21616,
+      "kinopoisk": 16271,
+      "imdb": 15826,
+      "tmdb": 0,
+      "world-art": 1848,
+      "shikimori": 1431,
+      "none": 197
+    },
+    "tv": {
+      "all": 20443,
+      "kinopoisk": 6844,
+      "imdb": 7153,
+      "tmdb": 0,
+      "world-art": 4317,
+      "shikimori": 3347,
+      "none": 856
+    }
+  },
+  {
+    "date": 1649635200,
+    "movies": {
+      "all": 21621,
+      "kinopoisk": 16274,
+      "imdb": 15829,
+      "tmdb": 0,
+      "world-art": 1848,
+      "shikimori": 1431,
+      "none": 197
+    },
+    "tv": {
+      "all": 20480,
+      "kinopoisk": 6845,
+      "imdb": 7154,
+      "tmdb": 0,
+      "world-art": 4317,
+      "shikimori": 3347,
+      "none": 857
+    }
+  },
+  {
+    "date": 1649721600,
+    "movies": {
+      "all": 21629,
+      "kinopoisk": 16276,
+      "imdb": 15831,
+      "tmdb": 0,
+      "world-art": 1849,
+      "shikimori": 1432,
+      "none": 197
+    },
+    "tv": {
+      "all": 20520,
+      "kinopoisk": 6846,
+      "imdb": 7157,
+      "tmdb": 0,
+      "world-art": 4323,
+      "shikimori": 3349,
+      "none": 857
+    }
+  },
+  {
+    "date": 1649808000,
+    "movies": {
+      "all": 21631,
+      "kinopoisk": 16277,
+      "imdb": 15832,
+      "tmdb": 0,
+      "world-art": 1849,
+      "shikimori": 1432,
+      "none": 197
+    },
+    "tv": {
+      "all": 20552,
+      "kinopoisk": 6846,
+      "imdb": 7157,
+      "tmdb": 0,
+      "world-art": 4326,
+      "shikimori": 3351,
+      "none": 859
+    }
+  },
+  {
+    "date": 1649894400,
+    "movies": {
+      "all": 21635,
+      "kinopoisk": 16280,
+      "imdb": 15835,
+      "tmdb": 0,
+      "world-art": 1849,
+      "shikimori": 1432,
+      "none": 197
+    },
+    "tv": {
+      "all": 20566,
+      "kinopoisk": 6847,
+      "imdb": 7158,
+      "tmdb": 0,
+      "world-art": 4326,
+      "shikimori": 3351,
+      "none": 861
+    }
+  },
+  {
+    "date": 1650067200,
+    "movies": {
+      "all": 21506,
+      "kinopoisk": 16162,
+      "imdb": 15716,
+      "tmdb": 0,
+      "world-art": 1850,
+      "shikimori": 1433,
+      "none": 196
+    },
+    "tv": {
+      "all": 20595,
+      "kinopoisk": 6847,
+      "imdb": 7159,
+      "tmdb": 0,
+      "world-art": 4329,
+      "shikimori": 3353,
+      "none": 866
+    }
+  },
+  {
+    "date": 1650153600,
+    "movies": {
+      "all": 21643,
+      "kinopoisk": 16283,
+      "imdb": 15838,
+      "tmdb": 0,
+      "world-art": 1850,
+      "shikimori": 1433,
+      "none": 197
+    },
+    "tv": {
+      "all": 20638,
+      "kinopoisk": 6852,
+      "imdb": 7164,
+      "tmdb": 0,
+      "world-art": 4330,
+      "shikimori": 3354,
+      "none": 867
+    }
+  },
+  {
+    "date": 1650240000,
+    "movies": {
+      "all": 21652,
+      "kinopoisk": 16288,
+      "imdb": 15843,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 197
+    },
+    "tv": {
+      "all": 20654,
+      "kinopoisk": 6853,
+      "imdb": 7167,
+      "tmdb": 0,
+      "world-art": 4332,
+      "shikimori": 3354,
+      "none": 871
+    }
+  },
+  {
+    "date": 1650326400,
+    "movies": {
+      "all": 21656,
+      "kinopoisk": 16291,
+      "imdb": 15846,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 197
+    },
+    "tv": {
+      "all": 20666,
+      "kinopoisk": 6855,
+      "imdb": 7170,
+      "tmdb": 0,
+      "world-art": 4332,
+      "shikimori": 3354,
+      "none": 873
+    }
+  },
+  {
+    "date": 1650412800,
+    "movies": {
+      "all": 21658,
+      "kinopoisk": 16292,
+      "imdb": 15847,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 198
+    },
+    "tv": {
+      "all": 20678,
+      "kinopoisk": 6855,
+      "imdb": 7170,
+      "tmdb": 0,
+      "world-art": 4332,
+      "shikimori": 3354,
+      "none": 875
+    }
+  },
+  {
+    "date": 1650499200,
+    "movies": {
+      "all": 21661,
+      "kinopoisk": 16294,
+      "imdb": 15849,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 198
+    },
+    "tv": {
+      "all": 20694,
+      "kinopoisk": 6858,
+      "imdb": 7173,
+      "tmdb": 0,
+      "world-art": 4333,
+      "shikimori": 3356,
+      "none": 878
+    }
+  },
+  {
+    "date": 1650585600,
+    "movies": {
+      "all": 21666,
+      "kinopoisk": 16297,
+      "imdb": 15852,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 198
+    },
+    "tv": {
+      "all": 20709,
+      "kinopoisk": 6860,
+      "imdb": 7176,
+      "tmdb": 0,
+      "world-art": 4334,
+      "shikimori": 3356,
+      "none": 886
+    }
+  },
+  {
+    "date": 1650672000,
+    "movies": {
+      "all": 21668,
+      "kinopoisk": 16298,
+      "imdb": 15853,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 198
+    },
+    "tv": {
+      "all": 20713,
+      "kinopoisk": 6861,
+      "imdb": 7176,
+      "tmdb": 0,
+      "world-art": 4334,
+      "shikimori": 3356,
+      "none": 887
+    }
+  },
+  {
+    "date": 1650758400,
+    "movies": {
+      "all": 21669,
+      "kinopoisk": 16298,
+      "imdb": 15853,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 198
+    },
+    "tv": {
+      "all": 20728,
+      "kinopoisk": 6864,
+      "imdb": 7179,
+      "tmdb": 0,
+      "world-art": 4335,
+      "shikimori": 3357,
+      "none": 888
+    }
+  },
+  {
+    "date": 1651017600,
+    "movies": {
+      "all": 21691,
+      "kinopoisk": 16309,
+      "imdb": 15864,
+      "tmdb": 0,
+      "world-art": 1851,
+      "shikimori": 1434,
+      "none": 199
+    },
+    "tv": {
+      "all": 20773,
+      "kinopoisk": 6866,
+      "imdb": 7182,
+      "tmdb": 0,
+      "world-art": 4337,
+      "shikimori": 3357,
+      "none": 894
+    }
+  },
+  {
+    "date": 1651363200,
+    "movies": {
+      "all": 21710,
+      "kinopoisk": 16317,
+      "imdb": 15872,
+      "tmdb": 0,
+      "world-art": 1852,
+      "shikimori": 1435,
+      "none": 199
+    },
+    "tv": {
+      "all": 20838,
+      "kinopoisk": 6877,
+      "imdb": 7193,
+      "tmdb": 0,
+      "world-art": 4342,
+      "shikimori": 3358,
+      "none": 901
+    }
+  },
+  {
+    "date": 1651449600,
+    "movies": {
+      "all": 21725,
+      "kinopoisk": 16327,
+      "imdb": 15882,
+      "tmdb": 0,
+      "world-art": 1852,
+      "shikimori": 1435,
+      "none": 199
+    },
+    "tv": {
+      "all": 20844,
+      "kinopoisk": 6877,
+      "imdb": 7193,
+      "tmdb": 0,
+      "world-art": 4342,
+      "shikimori": 3358,
+      "none": 903
+    }
+  },
+  {
+    "date": 1651536000,
+    "movies": {
+      "all": 21729,
+      "kinopoisk": 16328,
+      "imdb": 15883,
+      "tmdb": 0,
+      "world-art": 1852,
+      "shikimori": 1435,
+      "none": 199
+    },
+    "tv": {
+      "all": 20859,
+      "kinopoisk": 6880,
+      "imdb": 7196,
+      "tmdb": 0,
+      "world-art": 4342,
+      "shikimori": 3359,
+      "none": 906
+    }
+  },
+  {
+    "date": 1651622400,
+    "movies": {
+      "all": 21739,
+      "kinopoisk": 16336,
+      "imdb": 15891,
+      "tmdb": 0,
+      "world-art": 1852,
+      "shikimori": 1435,
+      "none": 200
+    },
+    "tv": {
+      "all": 20867,
+      "kinopoisk": 6881,
+      "imdb": 7198,
+      "tmdb": 0,
+      "world-art": 4342,
+      "shikimori": 3359,
+      "none": 908
+    }
+  },
+  {
+    "date": 1651795200,
+    "movies": {
+      "all": 21764,
+      "kinopoisk": 16350,
+      "imdb": 15905,
+      "tmdb": 0,
+      "world-art": 1853,
+      "shikimori": 1435,
+      "none": 200
+    },
+    "tv": {
+      "all": 20895,
+      "kinopoisk": 6888,
+      "imdb": 7206,
+      "tmdb": 0,
+      "world-art": 4342,
+      "shikimori": 3360,
+      "none": 909
+    }
+  },
+  {
+    "date": 1652140800,
+    "movies": {
+      "all": 21781,
+      "kinopoisk": 16360,
+      "imdb": 15915,
+      "tmdb": 0,
+      "world-art": 1853,
+      "shikimori": 1435,
+      "none": 202
+    },
+    "tv": {
+      "all": 20936,
+      "kinopoisk": 6896,
+      "imdb": 7212,
+      "tmdb": 0,
+      "world-art": 4345,
+      "shikimori": 3361,
+      "none": 916
+    }
+  },
+  {
+    "date": 1652313600,
+    "movies": {
+      "all": 21795,
+      "kinopoisk": 16367,
+      "imdb": 15922,
+      "tmdb": 0,
+      "world-art": 1854,
+      "shikimori": 1437,
+      "none": 202
+    },
+    "tv": {
+      "all": 20961,
+      "kinopoisk": 6902,
+      "imdb": 7217,
+      "tmdb": 0,
+      "world-art": 4347,
+      "shikimori": 3361,
+      "none": 919
+    }
+  },
+  {
+    "date": 1652400000,
+    "movies": {
+      "all": 21795,
+      "kinopoisk": 16366,
+      "imdb": 15921,
+      "tmdb": 0,
+      "world-art": 1854,
+      "shikimori": 1437,
+      "none": 203
+    },
+    "tv": {
+      "all": 20970,
+      "kinopoisk": 6906,
+      "imdb": 7222,
+      "tmdb": 0,
+      "world-art": 4347,
+      "shikimori": 3362,
+      "none": 918
+    }
+  },
+  {
+    "date": 1652572800,
+    "movies": {
+      "all": 21804,
+      "kinopoisk": 16371,
+      "imdb": 15927,
+      "tmdb": 0,
+      "world-art": 1855,
+      "shikimori": 1437,
+      "none": 203
+    },
+    "tv": {
+      "all": 20993,
+      "kinopoisk": 6910,
+      "imdb": 7228,
+      "tmdb": 0,
+      "world-art": 4347,
+      "shikimori": 3362,
+      "none": 919
+    }
+  },
+  {
+    "date": 1652659200,
+    "movies": {
+      "all": 21809,
+      "kinopoisk": 16375,
+      "imdb": 15931,
+      "tmdb": 0,
+      "world-art": 1855,
+      "shikimori": 1437,
+      "none": 203
+    },
+    "tv": {
+      "all": 20998,
+      "kinopoisk": 6912,
+      "imdb": 7230,
+      "tmdb": 0,
+      "world-art": 4348,
+      "shikimori": 3363,
+      "none": 919
+    }
+  },
+  {
+    "date": 1652832000,
+    "movies": {
+      "all": 21819,
+      "kinopoisk": 16378,
+      "imdb": 15935,
+      "tmdb": 0,
+      "world-art": 1858,
+      "shikimori": 1438,
+      "none": 203
+    },
+    "tv": {
+      "all": 21023,
+      "kinopoisk": 6913,
+      "imdb": 7232,
+      "tmdb": 0,
+      "world-art": 4351,
+      "shikimori": 3363,
+      "none": 924
+    }
+  },
+  {
+    "date": 1652918400,
+    "movies": {
+      "all": 21826,
+      "kinopoisk": 16379,
+      "imdb": 15936,
+      "tmdb": 0,
+      "world-art": 1858,
+      "shikimori": 1438,
+      "none": 205
+    },
+    "tv": {
+      "all": 21040,
+      "kinopoisk": 6913,
+      "imdb": 7233,
+      "tmdb": 0,
+      "world-art": 4351,
+      "shikimori": 3363,
+      "none": 926
+    }
+  },
+  {
+    "date": 1653177600,
+    "movies": {
+      "all": 21723,
+      "kinopoisk": 16311,
+      "imdb": 15860,
+      "tmdb": 0,
+      "world-art": 1858,
+      "shikimori": 1438,
+      "none": 202
+    },
+    "tv": {
+      "all": 21043,
+      "kinopoisk": 6900,
+      "imdb": 7221,
+      "tmdb": 0,
+      "world-art": 4352,
+      "shikimori": 3364,
+      "none": 929
+    }
+  },
+  {
+    "date": 1653350400,
+    "movies": {
+      "all": 21865,
+      "kinopoisk": 16394,
+      "imdb": 15950,
+      "tmdb": 0,
+      "world-art": 1859,
+      "shikimori": 1438,
+      "none": 207
+    },
+    "tv": {
+      "all": 21139,
+      "kinopoisk": 6924,
+      "imdb": 7252,
+      "tmdb": 0,
+      "world-art": 4358,
+      "shikimori": 3367,
+      "none": 931
+    }
+  },
+  {
+    "date": 1653609600,
+    "movies": {
+      "all": 21880,
+      "kinopoisk": 16398,
+      "imdb": 15955,
+      "tmdb": 0,
+      "world-art": 1860,
+      "shikimori": 1438,
+      "none": 207
+    },
+    "tv": {
+      "all": 21173,
+      "kinopoisk": 6929,
+      "imdb": 7257,
+      "tmdb": 0,
+      "world-art": 4359,
+      "shikimori": 3368,
+      "none": 936
+    }
+  },
+  {
+    "date": 1654041600,
+    "movies": {
+      "all": 21916,
+      "kinopoisk": 16417,
+      "imdb": 15974,
+      "tmdb": 0,
+      "world-art": 1864,
+      "shikimori": 1442,
+      "none": 208
+    },
+    "tv": {
+      "all": 21217,
+      "kinopoisk": 6934,
+      "imdb": 7266,
+      "tmdb": 0,
+      "world-art": 4363,
+      "shikimori": 3370,
+      "none": 943
+    }
+  },
+  {
+    "date": 1654300800,
+    "movies": {
+      "all": 21931,
+      "kinopoisk": 16424,
+      "imdb": 15981,
+      "tmdb": 0,
+      "world-art": 1865,
+      "shikimori": 1443,
+      "none": 208
+    },
+    "tv": {
+      "all": 21237,
+      "kinopoisk": 6938,
+      "imdb": 7274,
+      "tmdb": 0,
+      "world-art": 4363,
+      "shikimori": 3370,
+      "none": 943
+    }
+  },
+  {
+    "date": 1654560000,
+    "movies": {
+      "all": 21964,
+      "kinopoisk": 16438,
+      "imdb": 15993,
+      "tmdb": 0,
+      "world-art": 1865,
+      "shikimori": 1443,
+      "none": 208
+    },
+    "tv": {
+      "all": 21281,
+      "kinopoisk": 6948,
+      "imdb": 7284,
+      "tmdb": 0,
+      "world-art": 4363,
+      "shikimori": 3372,
+      "none": 944
+    }
+  }
+]
